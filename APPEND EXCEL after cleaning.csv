@@ -1,0 +1,845 @@
+Source.Name,refYear,partnerCode,partnerDesc,cmdCode,cmdDesc,qtyUnitAbbr,isQtyEstimated,netWgt_tons,isNetWgtEstimated,cifvalue,netWgt_tons
+الذره.xlsx,2015,0,World,1005,Maize (corn),kg,False,819073766.7768588,False,1780877042.205,819073.7667768588
+الذره.xlsx,2015,32,Argentina,1005,Maize (corn),kg,True,1773837187.984,True,386878022.001,1773837.187984
+الذره.xlsx,2015,56,Belgium,1005,Maize (corn),kg,True,570.289,True,124.381,0.5702889999999999
+الذره.xlsx,2015,76,Brazil,1005,Maize (corn),kg,True,1772388962.102,True,386562160.563,1772388.962102
+الذره.xlsx,2015,100,Bulgaria,1005,Maize (corn),kg,True,31174142.33,True,6799153.047,31174.14233
+الذره.xlsx,2015,124,Canada,1005,Maize (corn),kg,True,761125.604,True,166003.267,761.1256040000001
+الذره.xlsx,2015,156,China,1005,Maize (corn),kg,False,243.97849425453947,False,530.472,0.24397849425453946
+الذره.xlsx,2015,191,Croatia,1005,Maize (corn),kg,True,4365186.781,True,952057.404,4365.186781
+الذره.xlsx,2015,233,Estonia,1005,Maize (corn),kg,True,28457276.385,True,6206598.257,28457.276385
+الذره.xlsx,2015,251,France,1005,Maize (corn),kg,True,146000.47,True,35530.712,146.00047
+الذره.xlsx,2015,276,Germany,1005,Maize (corn),kg,False,603.2501557342015,False,1311.621,0.6032501557342015
+الذره.xlsx,2015,300,Greece,1005,Maize (corn),kg,True,1791.135,True,1390.697,1.791135
+الذره.xlsx,2015,348,Hungary,1005,Maize (corn),kg,True,91864856.645,True,20035939.189,91864.85664499999
+الذره.xlsx,2015,380,Italy,1005,Maize (corn),kg,True,4909.432,True,2320.816,4.909432
+الذره.xlsx,2015,400,Jordan,1005,Maize (corn),kg,True,94641.931,True,20641.626,94.641931
+الذره.xlsx,2015,458,Malaysia,1005,Maize (corn),kg,True,238184.655,True,51948.628,238.184655
+الذره.xlsx,2015,484,Mexico,1005,Maize (corn),kg,False,10812.074073635164,False,23508.23,10.812074073635163
+الذره.xlsx,2015,600,Paraguay,1005,Maize (corn),kg,True,44038475.877,True,9604894.155,44038.475877
+الذره.xlsx,2015,642,Romania,1005,Maize (corn),kg,True,216199337.767,True,47747389.243,216199.337767
+الذره.xlsx,2015,688,Serbia,1005,Maize (corn),kg,True,286460659.488,True,62477737.007,286460.659488
+الذره.xlsx,2015,699,India,1005,Maize (corn),kg,False,65593.43917667212,False,142617.008,65.59343917667212
+الذره.xlsx,2015,724,Spain,1005,Maize (corn),kg,True,1366450.683,True,310950.689,1366.450683
+الذره.xlsx,2015,764,Thailand,1005,Maize (corn),kg,False,504408.04170102905,False,1096712.821,504.40804170102905
+الذره.xlsx,2015,784,United Arab Emirates,1005,Maize (corn),kg,True,1216.109,True,265.236,1.2161089999999999
+الذره.xlsx,2015,792,Türkiye,1005,Maize (corn),kg,True,3652889.253,True,796703.654,3652.889253
+الذره.xlsx,2015,804,Ukraine,1005,Maize (corn),kg,True,2819195338.225,True,614873069.228,2819195.338225
+الذره.xlsx,2015,842,USA,1005,Maize (corn),kg,True,1080892644.155,True,236083715.34,1080892.6441549999
+الذره.xlsx,2015,899,"Areas, nes",1005,Maize (corn),kg,True,26349.615,True,5746.912,26.349615
+الذره.xlsx,2016,0,World,1005,Maize (corn),kg,False,976994910.1030138,False,1852697862.944,976994.9101030137
+الذره.xlsx,2016,32,Argentina,1005,Maize (corn),kg,True,3008751970.042,True,638129229.614,3008751.9700419996
+الذره.xlsx,2016,76,Brazil,1005,Maize (corn),kg,True,1528567717.505,True,324502177.03,1528567.717505
+الذره.xlsx,2016,100,Bulgaria,1005,Maize (corn),kg,True,53722736.658,True,11394109.218,53722.736658
+الذره.xlsx,2016,152,Chile,1005,Maize (corn),kg,False,20979.21514520311,False,39783.367,20.97921514520311
+الذره.xlsx,2016,156,China,1005,Maize (corn),kg,True,3648.267,True,2212.919,3.6482669999999997
+الذره.xlsx,2016,191,Croatia,1005,Maize (corn),kg,True,104932.648,True,22255.271,104.932648
+الذره.xlsx,2016,251,France,1005,Maize (corn),kg,True,62525274.49,True,13262184.185,62525.27449
+الذره.xlsx,2016,276,Germany,1005,Maize (corn),kg,False,1351.4607360763962,False,2562.806,1.3514607360763962
+الذره.xlsx,2016,380,Italy,1005,Maize (corn),kg,False,439.9466890410557,False,834.281,0.4399466890410557
+الذره.xlsx,2016,600,Paraguay,1005,Maize (corn),kg,True,33130679.347,True,7026719.085,33130.679347
+الذره.xlsx,2016,616,Poland,1005,Maize (corn),kg,True,434064.901,True,92061.261,434.064901
+الذره.xlsx,2016,642,Romania,1005,Maize (corn),kg,True,348731414.76,True,73962796.289,348731.41476
+الذره.xlsx,2016,688,Serbia,1005,Maize (corn),kg,True,84060761.924,True,17828531.491,84060.76192399999
+الذره.xlsx,2016,699,India,1005,Maize (corn),kg,False,804.7806444903961,False,1526.124,0.8047806444903961
+الذره.xlsx,2016,710,South Africa,1005,Maize (corn),kg,True,7541.015,True,1599.382,7.541015000000001
+الذره.xlsx,2016,724,Spain,1005,Maize (corn),kg,True,1913257.651,True,405784.738,1913.2576510000001
+الذره.xlsx,2016,764,Thailand,1005,Maize (corn),kg,False,624902.9098933265,False,1185017.725,624.9029098933264
+الذره.xlsx,2016,784,United Arab Emirates,1005,Maize (corn),kg,True,63545.956,True,13477.526,63.545956
+الذره.xlsx,2016,792,Türkiye,1005,Maize (corn),kg,True,1313323.99,True,280215.068,1313.32399
+الذره.xlsx,2016,804,Ukraine,1005,Maize (corn),kg,True,2624688553.473,True,556672833.548,2624688.553473
+الذره.xlsx,2016,842,USA,1005,Maize (corn),kg,True,978488580.755,True,207871791.872,978488.580755
+الذره.xlsx,2016,899,"Areas, nes",1005,Maize (corn),kg,False,84.45027816344837,False,160.145,0.08445027816344837
+الذره.xlsx,2017,0,World,1005,Maize (corn),kg,True,8412594491.318,True,1735615113.976,8412594.491318
+الذره.xlsx,2017,32,Argentina,1005,Maize (corn),kg,True,2654856120.243,True,545889713.437,2654856.120243
+الذره.xlsx,2017,36,Australia,1005,Maize (corn),kg,True,353262.203,True,72637.534,353.262203
+الذره.xlsx,2017,76,Brazil,1005,Maize (corn),kg,True,2166664012.581,True,446447219.731,2166664.0125809996
+الذره.xlsx,2017,100,Bulgaria,1005,Maize (corn),kg,True,72111501.561,True,14827518.005,72111.501561
+الذره.xlsx,2017,152,Chile,1005,Maize (corn),kg,True,116905.902,True,421638.855,116.905902
+الذره.xlsx,2017,156,China,1005,Maize (corn),kg,True,3162.263,True,11405.182,3.162263
+الذره.xlsx,2017,251,France,1005,Maize (corn),kg,True,357.226,True,1288.391,0.357226
+الذره.xlsx,2017,276,Germany,1005,Maize (corn),kg,True,424.41,True,1530.7,0.42441
+الذره.xlsx,2017,410,Rep. of Korea,1005,Maize (corn),kg,True,101034723.424,True,20774691.252,101034.723424
+الذره.xlsx,2017,600,Paraguay,1005,Maize (corn),kg,True,16372857.597,True,3366575.866,16372.857596999998
+الذره.xlsx,2017,642,Romania,1005,Maize (corn),kg,True,145507621.96,True,29919178.463,145507.62196000002
+الذره.xlsx,2017,643,Russian Federation,1005,Maize (corn),kg,True,2756960.488,True,566884.344,2756.9604879999997
+الذره.xlsx,2017,688,Serbia,1005,Maize (corn),kg,True,107708378.018,True,22148943.336,107708.378018
+الذره.xlsx,2017,710,South Africa,1005,Maize (corn),kg,True,17174.421,True,3531.393,17.174421
+الذره.xlsx,2017,724,Spain,1005,Maize (corn),kg,True,660421.402,True,135795.401,660.4214020000001
+الذره.xlsx,2017,764,Thailand,1005,Maize (corn),kg,True,886527.974,True,3197397.504,886.5279740000001
+الذره.xlsx,2017,792,Türkiye,1005,Maize (corn),kg,True,2882470.925,True,627105.221,2882.4709249999996
+الذره.xlsx,2017,804,Ukraine,1005,Maize (corn),kg,True,2882753723.381,True,592749863.907,2882753.723381
+الذره.xlsx,2017,842,USA,1005,Maize (corn),kg,True,257907885.338,True,54452195.453,257907.885338
+الذره.xlsx,2018,0,World,1005,Maize (corn),kg,False,4244004973.9239235,False,1870948213.198,4244004.973923923
+الذره.xlsx,2018,32,Argentina,1005,Maize (corn),kg,False,1161934485.7533555,False,512232964.695,1161934.4857533555
+الذره.xlsx,2018,76,Brazil,1005,Maize (corn),kg,False,1041574971.2997594,False,459173079.07,1041574.9712997593
+الذره.xlsx,2018,251,France,1005,Maize (corn),kg,False,393470.91787478834,False,173459.672,393.47091787478837
+الذره.xlsx,2018,300,Greece,1005,Maize (corn),kg,True,41.678,True,173.236,0.041678
+الذره.xlsx,2018,380,Italy,1005,Maize (corn),kg,True,40977.115,True,170320.529,40.977115
+الذره.xlsx,2018,600,Paraguay,1005,Maize (corn),kg,False,18927425.084732704,False,8344060.0,18927.425084732702
+الذره.xlsx,2018,688,Serbia,1005,Maize (corn),kg,True,108.405,True,450.582,0.108405
+الذره.xlsx,2018,710,South Africa,1005,Maize (corn),kg,False,409656.49014715885,False,180595.0,409.6564901471589
+الذره.xlsx,2018,724,Spain,1005,Maize (corn),kg,False,2146583.9551083934,False,946310.723,2146.5839551083936
+الذره.xlsx,2018,764,Thailand,1005,Maize (corn),kg,True,172189.537,True,715702.25,172.189537
+الذره.xlsx,2018,792,Türkiye,1005,Maize (corn),kg,True,1179809.45,True,253960.384,1179.80945
+الذره.xlsx,2018,804,Ukraine,1005,Maize (corn),kg,False,1160512637.1547618,False,511606149.903,1160512.6371547617
+الذره.xlsx,2018,842,USA,1005,Maize (corn),kg,True,1748263209.937,True,377117897.733,1748263.209937
+الذره.xlsx,2018,899,"Areas, nes",1005,Maize (corn),kg,True,12356.49,True,33089.422,12.356489999999999
+الذره.xlsx,2019,0,World,1005,Maize (corn),kg,False,1477715738.6890063,False,1984631486.197,1477715.7386890063
+الذره.xlsx,2019,32,Argentina,1005,Maize (corn),kg,True,2692598083.765,True,561850879.056,2692598.0837649996
+الذره.xlsx,2019,76,Brazil,1005,Maize (corn),kg,True,3012156928.799,True,628531934.045,3012156.9287989996
+الذره.xlsx,2019,100,Bulgaria,1005,Maize (corn),kg,True,124935877.968,True,26069740.332,124935.877968
+الذره.xlsx,2019,251,France,1005,Maize (corn),kg,True,316302.589,True,100732.941,316.30258899999995
+الذره.xlsx,2019,348,Hungary,1005,Maize (corn),kg,False,1275.7683156823234,False,1713.408,1.2757683156823234
+الذره.xlsx,2019,360,Indonesia,1005,Maize (corn),kg,True,566.126,True,118.131,0.566126
+الذره.xlsx,2019,380,Italy,1005,Maize (corn),kg,False,22311.756074647055,False,29965.583,22.311756074647054
+الذره.xlsx,2019,600,Paraguay,1005,Maize (corn),kg,True,33296977.154,True,6947912.5,33296.977154
+الذره.xlsx,2019,642,Romania,1005,Maize (corn),kg,True,407677477.314,True,85068005.649,407677.477314
+الذره.xlsx,2019,688,Serbia,1005,Maize (corn),kg,True,50285727.368,True,10493409.88,50285.727368
+الذره.xlsx,2019,699,India,1005,Maize (corn),kg,True,1233.777,True,257.446,1.2337770000000001
+الذره.xlsx,2019,724,Spain,1005,Maize (corn),kg,True,9193734.303,True,1927155.11,9193.734303
+الذره.xlsx,2019,764,Thailand,1005,Maize (corn),kg,False,1860881.081768772,False,2499237.905,1860.881081768772
+الذره.xlsx,2019,784,United Arab Emirates,1005,Maize (corn),kg,True,141390.4,True,29503.223,141.3904
+الذره.xlsx,2019,792,Türkiye,1005,Maize (corn),kg,True,1075013.061,True,241421.362,1075.0130609999999
+الذره.xlsx,2019,804,Ukraine,1005,Maize (corn),kg,True,2929937259.996,True,611375249.441,2929937.2599959997
+الذره.xlsx,2019,842,USA,1005,Maize (corn),kg,True,231632176.017,True,49455212.934,231632.176017
+الذره.xlsx,2019,887,Yemen,1005,Maize (corn),kg,True,1105.866,True,230.755,1.105866
+الذره.xlsx,2019,899,"Areas, nes",1005,Maize (corn),kg,True,42204.0,True,8806.496,42.204
+الذره.xlsx,2020,0,World,1005,Maize (corn),kg,False,1747725588.8999357,False,2006918418.82,1747725.5888999358
+الذره.xlsx,2020,32,Argentina,1005,Maize (corn),kg,True,3328764850.844,True,751345161.135,3328764.850844
+الذره.xlsx,2020,76,Brazil,1005,Maize (corn),kg,True,2182175178.437,True,492545083.397,2182175.1784369997
+الذره.xlsx,2020,100,Bulgaria,1005,Maize (corn),kg,True,42970426.916,True,9698979.586,42970.426916000004
+الذره.xlsx,2020,140,Central African Rep.,1005,Maize (corn),kg,True,44.304,True,10.0,0.044304
+الذره.xlsx,2020,251,France,1005,Maize (corn),kg,False,2889.1304779428124,False,3317.597,2.889130477942812
+الذره.xlsx,2020,300,Greece,1005,Maize (corn),kg,False,3241.2387836698745,False,3721.924,3.2412387836698744
+الذره.xlsx,2020,332,Haiti,1005,Maize (corn),kg,True,903803.025,True,204000.0,903.803025
+الذره.xlsx,2020,348,Hungary,1005,Maize (corn),kg,False,437.21825122987826,False,502.059,0.4372182512298783
+الذره.xlsx,2020,380,Italy,1005,Maize (corn),kg,False,33942.387412924894,False,38976.143,33.942387412924894
+الذره.xlsx,2020,484,Mexico,1005,Maize (corn),kg,False,431.4575762257739,False,495.444,0.4314575762257739
+الذره.xlsx,2020,490,"Other Asia, nes",1005,Maize (corn),kg,False,14441.076942023727,False,16582.731,14.441076942023727
+الذره.xlsx,2020,498,Rep. of Moldova,1005,Maize (corn),kg,True,5013574.812,True,1131628.5,5013.574812
+الذره.xlsx,2020,642,Romania,1005,Maize (corn),kg,True,572416288.361,True,129201739.289,572416.2883609999
+الذره.xlsx,2020,643,Russian Federation,1005,Maize (corn),kg,True,1156456.554,True,261027.16,1156.456554
+الذره.xlsx,2020,688,Serbia,1005,Maize (corn),kg,True,183526273.233,True,41424246.984,183526.273233
+الذره.xlsx,2020,699,India,1005,Maize (corn),kg,True,31857.927,True,121489.741,31.857927
+الذره.xlsx,2020,716,Zimbabwe,1005,Maize (corn),kg,False,16.892754909995,False,19.398,0.016892754909995
+الذره.xlsx,2020,724,Spain,1005,Maize (corn),kg,True,3185880.489,True,719094.318,3185.880489
+الذره.xlsx,2020,764,Thailand,1005,Maize (corn),kg,False,1170546.7103122268,False,1344142.22,1170.5467103122269
+الذره.xlsx,2020,792,Türkiye,1005,Maize (corn),kg,True,1390620.33,True,313880.945,1390.62033
+الذره.xlsx,2020,804,Ukraine,1005,Maize (corn),kg,True,2502277192.884,True,564796236.723,2502277.192884
+الذره.xlsx,2020,826,United Kingdom,1005,Maize (corn),kg,True,40.905,True,9.233,0.040905000000000004
+الذره.xlsx,2020,842,USA,1005,Maize (corn),kg,True,58967841.634,True,13748074.293,58967.841634000004
+الذره.xlsx,2021,0,World,1005,Maize (corn),kg,True,9439599794.512,True,2844877774.952,9439599.794512
+الذره.xlsx,2021,32,Argentina,1005,Maize (corn),kg,True,3542163769.769,True,1067090605.358,3542163.769769
+الذره.xlsx,2021,36,Australia,1005,Maize (corn),kg,True,1349617.575,True,406577.383,1349.617575
+الذره.xlsx,2021,76,Brazil,1005,Maize (corn),kg,True,2576831019.734,True,776280059.867,2576831.0197340003
+الذره.xlsx,2021,100,Bulgaria,1005,Maize (corn),kg,True,8666892.615,True,2610993.555,8666.892615
+الذره.xlsx,2021,124,Canada,1005,Maize (corn),kg,True,1127102.181,True,339543.781,1127.1021810000002
+الذره.xlsx,2021,156,China,1005,Maize (corn),kg,True,1126520.089,True,339427.557,1126.5200889999999
+الذره.xlsx,2021,251,France,1005,Maize (corn),kg,True,1105611.752,True,337329.579,1105.611752
+الذره.xlsx,2021,276,Germany,1005,Maize (corn),kg,True,1104501.53,True,332735.25,1104.50153
+الذره.xlsx,2021,348,Hungary,1005,Maize (corn),kg,True,1045729.548,True,315029.969,1045.729548
+الذره.xlsx,2021,360,Indonesia,1005,Maize (corn),kg,True,7125232.818,True,2146503.25,7125.232818
+الذره.xlsx,2021,380,Italy,1005,Maize (corn),kg,True,716.685,True,2965.791,0.7166849999999999
+الذره.xlsx,2021,428,Latvia,1005,Maize (corn),kg,True,1127102.181,True,339543.781,1127.1021810000002
+الذره.xlsx,2021,566,Nigeria,1005,Maize (corn),kg,True,3.059,True,12.661,0.003059
+الذره.xlsx,2021,600,Paraguay,1005,Maize (corn),kg,True,21810196.751,True,6570404.0,21810.196751
+الذره.xlsx,2021,642,Romania,1005,Maize (corn),kg,True,579193415.082,True,174484199.969,579193.415082
+الذره.xlsx,2021,643,Russian Federation,1005,Maize (corn),kg,True,14923501.65,True,4495761.137,14923.50165
+الذره.xlsx,2021,688,Serbia,1005,Maize (corn),kg,True,108067815.975,True,32555837.0,108067.81597499999
+الذره.xlsx,2021,699,India,1005,Maize (corn),kg,True,17212.044,True,6191.353,17.212044000000002
+الذره.xlsx,2021,710,South Africa,1005,Maize (corn),kg,True,329390.251,True,99780.569,329.390251
+الذره.xlsx,2021,724,Spain,1005,Maize (corn),kg,True,5169412.12,True,1557304.891,5169.41212
+الذره.xlsx,2021,760,Syria,1005,Maize (corn),kg,True,468711.302,True,141201.047,468.71130200000005
+الذره.xlsx,2021,764,Thailand,1005,Maize (corn),kg,True,829.459,True,3432.47,0.829459
+الذره.xlsx,2021,784,United Arab Emirates,1005,Maize (corn),kg,True,168.652,True,50.807,0.168652
+الذره.xlsx,2021,792,Türkiye,1005,Maize (corn),kg,True,26974256.113,True,8126096.353,26974.256113000003
+الذره.xlsx,2021,804,Ukraine,1005,Maize (corn),kg,True,2053755560.254,True,618701605.599,2053755.560254
+الذره.xlsx,2021,842,USA,1005,Maize (corn),kg,True,486115505.322,True,147594581.976,486115.505322
+الذره.xlsx,2022,0,World,1005,Maize (corn),kg,False,2265534983.931893,False,3051081042.067,2265534.983931893
+الذره.xlsx,2022,32,Argentina,1005,Maize (corn),kg,True,2155394778.182,True,789206756.693,2155394.7781820004
+الذره.xlsx,2022,76,Brazil,1005,Maize (corn),kg,True,4271871498.996,True,1564163504.923,4271871.498996
+الذره.xlsx,2022,100,Bulgaria,1005,Maize (corn),kg,True,32591238.326,True,11933417.375,32591.238326000002
+الذره.xlsx,2022,251,France,1005,Maize (corn),kg,False,6533.339013136225,False,8798.693,6.533339013136225
+الذره.xlsx,2022,300,Greece,1005,Maize (corn),kg,False,11756.932860881663,False,15833.503,11.756932860881664
+الذره.xlsx,2022,498,Rep. of Moldova,1005,Maize (corn),kg,True,82230818.648,True,30109156.031,82230.818648
+الذره.xlsx,2022,642,Romania,1005,Maize (corn),kg,True,457698844.139,True,167588334.157,457698.844139
+الذره.xlsx,2022,643,Russian Federation,1005,Maize (corn),kg,True,8317659.064,True,3045545.438,8317.659064
+الذره.xlsx,2022,682,Saudi Arabia,1005,Maize (corn),kg,True,5567.722,True,2038.645,5.567722
+الذره.xlsx,2022,688,Serbia,1005,Maize (corn),kg,True,10017581.56,True,3667979.125,10017.58156
+الذره.xlsx,2022,699,India,1005,Maize (corn),kg,True,78612.574,True,248016.69,78.612574
+الذره.xlsx,2022,710,South Africa,1005,Maize (corn),kg,True,3364051.533,True,1231761.451,3364.051533
+الذره.xlsx,2022,724,Spain,1005,Maize (corn),kg,True,4638738.147,True,1698493.253,4638.738147
+الذره.xlsx,2022,764,Thailand,1005,Maize (corn),kg,True,488048.959,True,1617331.828,488.04895899999997
+الذره.xlsx,2022,792,Türkiye,1005,Maize (corn),kg,True,24319928.341,True,8905124.586,24319.928341
+الذره.xlsx,2022,804,Ukraine,1005,Maize (corn),kg,True,1245924269.87,True,456200349.961,1245924.26987
+الذره.xlsx,2022,842,USA,1005,Maize (corn),kg,True,29952843.301,True,11438599.714,29952.843301
+الذره.xlsx,2023,0,World,1005,Maize (corn),kg,False,1627154554.358887,False,2471721742.059,1627154.554358887
+الذره.xlsx,2023,32,Argentina,1005,Maize (corn),kg,True,1559940994.339,True,525137157.949,1559940.994339
+الذره.xlsx,2023,76,Brazil,1005,Maize (corn),kg,True,2193216287.526,True,738322941.886,2193216.287526
+الذره.xlsx,2023,100,Bulgaria,1005,Maize (corn),kg,True,4832181.553,True,1626701.328,4832.181553
+الذره.xlsx,2023,152,Chile,1005,Maize (corn),kg,False,859.7846690700856,False,1306.052,0.8597846690700855
+الذره.xlsx,2023,251,France,1005,Maize (corn),kg,False,164848.55472408043,False,250412.449,164.84855472408043
+الذره.xlsx,2023,360,Indonesia,1005,Maize (corn),kg,False,150.61366212974355,False,228.789,0.15061366212974356
+الذره.xlsx,2023,404,Kenya,1005,Maize (corn),kg,False,127.59065138331991,False,193.816,0.1275906513833199
+الذره.xlsx,2023,484,Mexico,1005,Maize (corn),kg,False,181675.64162599097,False,275973.559,181.67564162599098
+الذره.xlsx,2023,498,Rep. of Moldova,1005,Maize (corn),kg,True,51306540.995,True,17271788.626,51306.540994999996
+الذره.xlsx,2023,642,Romania,1005,Maize (corn),kg,True,364886367.734,True,122835024.415,364886.367734
+الذره.xlsx,2023,643,Russian Federation,1005,Maize (corn),kg,True,27100839.411,True,9123202.633,27100.839410999997
+الذره.xlsx,2023,688,Serbia,1005,Maize (corn),kg,True,6076271.742,True,2045510.75,6076.271742
+الذره.xlsx,2023,699,India,1005,Maize (corn),kg,False,1128993.526989332,False,1714992.494,1128.993526989332
+الذره.xlsx,2023,710,South Africa,1005,Maize (corn),kg,True,2593813.256,True,873277.823,2593.813256
+الذره.xlsx,2023,724,Spain,1005,Maize (corn),kg,True,10416389.048,True,3506564.005,10416.389048000001
+الذره.xlsx,2023,764,Thailand,1005,Maize (corn),kg,False,1698422.4094933027,False,2579980.854,1698.4224094933027
+الذره.xlsx,2023,792,Türkiye,1005,Maize (corn),kg,True,159456439.272,True,54216059.846,159456.43927200002
+الذره.xlsx,2023,804,Ukraine,1005,Maize (corn),kg,True,2940633805.549,True,989932365.915,2940633.805549
+الذره.xlsx,2023,826,United Kingdom,1005,Maize (corn),kg,True,38.381,True,12.921,0.038381
+الذره.xlsx,2023,842,USA,1005,Maize (corn),kg,True,4559761.698,True,2008045.951,4559.761698
+الذره.xlsx,2024,0,World,1005,Maize (corn),kg,False,1215248502.8630738,False,2271954103.265,1215248.5028630737
+الذره.xlsx,2024,32,Argentina,1005,Maize (corn),kg,True,937693987.553,True,230480974.469,937693.987553
+الذره.xlsx,2024,76,Brazil,1005,Maize (corn),kg,True,4633288208.159,True,1138841450.822,4633288.208159001
+الذره.xlsx,2024,251,France,1005,Maize (corn),kg,True,1299931.382,True,6946331.841,1299.931382
+الذره.xlsx,2024,276,Germany,1005,Maize (corn),kg,True,1327933.111,True,326400.0,1327.933111
+الذره.xlsx,2024,380,Italy,1005,Maize (corn),kg,False,498186.37624950876,False,931378.709,498.1863762495088
+الذره.xlsx,2024,484,Mexico,1005,Maize (corn),kg,False,3595.1050431534863,False,6721.188,3.5951050431534863
+الذره.xlsx,2024,490,"Other Asia, nes",1005,Maize (corn),kg,False,7957.899464369298,False,14877.601,7.957899464369298
+الذره.xlsx,2024,498,Rep. of Moldova,1005,Maize (corn),kg,True,15896744.729,True,3907348.522,15896.744729
+الذره.xlsx,2024,566,Nigeria,1005,Maize (corn),kg,False,29.07990087110827,False,54.366,0.029079900871108268
+الذره.xlsx,2024,568,"Other Europe, nes",1005,Maize (corn),kg,False,13.63277477655035,False,25.487,0.01363277477655035
+الذره.xlsx,2024,586,Pakistan,1005,Maize (corn),kg,False,138.12926169211008,False,258.238,0.13812926169211007
+الذره.xlsx,2024,642,Romania,1005,Maize (corn),kg,True,57728894.776,True,15141763.196,57728.894776
+الذره.xlsx,2024,643,Russian Federation,1005,Maize (corn),kg,True,6107202.835,True,1501570.257,6107.202835
+الذره.xlsx,2024,688,Serbia,1005,Maize (corn),kg,True,9976679.697,True,2452223.102,9976.679697000001
+الذره.xlsx,2024,699,India,1005,Maize (corn),kg,False,859884.9117649174,False,1607588.118,859.8849117649174
+الذره.xlsx,2024,710,South Africa,1005,Maize (corn),kg,True,543544.244,True,136343.607,543.5442439999999
+الذره.xlsx,2024,724,Spain,1005,Maize (corn),kg,True,12342754.581,True,3033793.691,12342.754581000001
+الذره.xlsx,2024,764,Thailand,1005,Maize (corn),kg,False,1806935.4244408626,False,3378135.7,1806.9354244408626
+الذره.xlsx,2024,792,Türkiye,1005,Maize (corn),kg,True,72889320.728,True,19104528.197,72889.320728
+الذره.xlsx,2024,804,Ukraine,1005,Maize (corn),kg,True,3423613066.245,True,841508729.06,3423613.066245
+الذره.xlsx,2024,842,USA,1005,Maize (corn),kg,True,10516138.13,True,2633607.096,10516.138130000001
+الذره.xlsx,2025,0,World,1005,Maize (corn),kg,False,1596148902.8050466,False,2916177077.731,1596148.9028050466
+الذره.xlsx,2025,32,Argentina,1005,Maize (corn),kg,True,1846948326.049,True,484013889.047,1846948.326049
+الذره.xlsx,2025,76,Brazil,1005,Maize (corn),kg,True,7271059481.833,True,1905464125.692,7271059.481833
+الذره.xlsx,2025,156,China,1005,Maize (corn),kg,False,188.26899989767819,False,343.969,0.18826899989767817
+الذره.xlsx,2025,251,France,1005,Maize (corn),kg,True,14509.026,True,79568.886,14.509026
+الذره.xlsx,2025,300,Greece,1005,Maize (corn),kg,False,423.63576413806,False,773.986,0.42363576413806
+الذره.xlsx,2025,380,Italy,1005,Maize (corn),kg,False,2426.1862017345807,False,4432.662,2.4261862017345805
+الذره.xlsx,2025,458,Malaysia,1005,Maize (corn),kg,False,794.3971066622084,False,1451.37,0.7943971066622084
+الذره.xlsx,2025,484,Mexico,1005,Maize (corn),kg,False,62217.63930087845,False,113672.135,62.21763930087845
+الذره.xlsx,2025,498,Rep. of Moldova,1005,Maize (corn),kg,True,227833.492,True,59706.367,227.833492
+الذره.xlsx,2025,642,Romania,1005,Maize (corn),kg,True,8374978.586,True,2195001.061,8374.978586
+الذره.xlsx,2025,643,Russian Federation,1005,Maize (corn),kg,True,1859338.397,True,487260.849,1859.3383970000002
+الذره.xlsx,2025,688,Serbia,1005,Maize (corn),kg,True,32686254.79,True,8565806.133,32686.25479
+الذره.xlsx,2025,699,India,1005,Maize (corn),kg,False,305477.9878598801,False,558110.778,305.4779878598801
+الذره.xlsx,2025,710,South Africa,1005,Maize (corn),kg,True,2221.474,True,11497.573,2.221474
+الذره.xlsx,2025,716,Zimbabwe,1005,Maize (corn),kg,False,8.294982086901182,False,15.155,0.008294982086901182
+الذره.xlsx,2025,724,Spain,1005,Maize (corn),kg,True,7681617.783,True,2013055.615,7681.617783
+الذره.xlsx,2025,729,Sudan,1005,Maize (corn),kg,True,75.759,True,19.853,0.075759
+الذره.xlsx,2025,764,Thailand,1005,Maize (corn),kg,False,89293.61846281846,False,163140.17,89.29361846281846
+الذره.xlsx,2025,792,Türkiye,1005,Maize (corn),kg,True,36147452.691,True,9511969.515,36147.452691
+الذره.xlsx,2025,804,Ukraine,1005,Maize (corn),kg,True,1314802883.681,True,344559102.215,1314802.883681
+الذره.xlsx,2025,842,USA,1005,Maize (corn),kg,True,603943767.701,True,158330435.381,603943.767701
+الذره.xlsx,2025,899,"Areas, nes",1005,Maize (corn),kg,True,160539.498,True,43699.316,160.53949799999998
+الميثونين.xlsx,2015,0,World,293040,Organo-sulphur compounds; methionine,kg,True,11096354.366,True,53930856.575,11096.354366
+الميثونين.xlsx,2015,56,Belgium,293040,Organo-sulphur compounds; methionine,kg,True,4737282.01,True,23024289.62,4737.28201
+الميثونين.xlsx,2015,76,Brazil,293040,Organo-sulphur compounds; methionine,kg,True,46004.333,True,223591.731,46.004332999999995
+الميثونين.xlsx,2015,156,China,293040,Organo-sulphur compounds; methionine,kg,True,10306.241,True,50090.722,10.306241
+الميثونين.xlsx,2015,251,France,293040,Organo-sulphur compounds; methionine,kg,True,1323545.421,True,6432737.809,1323.545421
+الميثونين.xlsx,2015,276,Germany,293040,Organo-sulphur compounds; methionine,kg,True,330445.455,True,1606041.575,330.44545500000004
+الميثونين.xlsx,2015,348,Hungary,293040,Organo-sulphur compounds; methionine,kg,True,15499.933,True,75333.271,15.499933
+الميثونين.xlsx,2015,392,Japan,293040,Organo-sulphur compounds; methionine,kg,True,916512.517,True,4454463.464,916.512517
+الميثونين.xlsx,2015,458,Malaysia,293040,Organo-sulphur compounds; methionine,kg,True,2677871.882,True,13015078.612,2677.8718820000004
+الميثونين.xlsx,2015,724,Spain,293040,Organo-sulphur compounds; methionine,kg,True,438379.818,True,2130627.621,438.379818
+الميثونين.xlsx,2015,842,USA,293040,Organo-sulphur compounds; methionine,kg,True,600506.756,True,2918602.151,600.506756
+الميثونين.xlsx,2016,0,World,293040,Organo-sulphur compounds; methionine,kg,True,11323095.808,True,39163191.472,11323.095808
+الميثونين.xlsx,2016,56,Belgium,293040,Organo-sulphur compounds; methionine,kg,True,4378143.744,True,15142685.767,4378.143744
+الميثونين.xlsx,2016,156,China,293040,Organo-sulphur compounds; methionine,kg,True,94679.733,True,327468.793,94.679733
+الميثونين.xlsx,2016,251,France,293040,Organo-sulphur compounds; methionine,kg,True,2059027.183,True,7121557.317,2059.027183
+الميثونين.xlsx,2016,276,Germany,293040,Organo-sulphur compounds; methionine,kg,True,247310.605,True,855373.19,247.310605
+الميثونين.xlsx,2016,380,Italy,293040,Organo-sulphur compounds; methionine,kg,True,60491.726,True,209222.734,60.491726
+الميثونين.xlsx,2016,392,Japan,293040,Organo-sulphur compounds; methionine,kg,True,791011.918,True,2735872.922,791.0119179999999
+الميثونين.xlsx,2016,458,Malaysia,293040,Organo-sulphur compounds; methionine,kg,True,2576994.929,True,8913052.362,2576.994929
+الميثونين.xlsx,2016,528,Netherlands,293040,Organo-sulphur compounds; methionine,kg,True,35538.724,True,122917.784,35.538724
+الميثونين.xlsx,2016,699,India,293040,Organo-sulphur compounds; methionine,kg,True,702.353,True,2429.23,0.702353
+الميثونين.xlsx,2016,702,Singapore,293040,Organo-sulphur compounds; methionine,kg,True,667.654,True,2309.215,0.667654
+الميثونين.xlsx,2016,724,Spain,293040,Organo-sulphur compounds; methionine,kg,True,560111.691,True,1937258.304,560.111691
+الميثونين.xlsx,2016,842,USA,293040,Organo-sulphur compounds; methionine,kg,True,518415.548,True,1793043.855,518.4155480000001
+الميثونين.xlsx,2017,0,World,293040,Organo-sulphur compounds; methionine,kg,True,6748200.734,True,17549521.231,6748.200734
+الميثونين.xlsx,2017,56,Belgium,293040,Organo-sulphur compounds; methionine,kg,True,1770662.896,True,4604825.391,1770.662896
+الميثونين.xlsx,2017,156,China,293040,Organo-sulphur compounds; methionine,kg,True,494385.961,True,1285711.149,494.385961
+الميثونين.xlsx,2017,251,France,293040,Organo-sulphur compounds; methionine,kg,True,623148.593,True,1620574.119,623.148593
+الميثونين.xlsx,2017,276,Germany,293040,Organo-sulphur compounds; methionine,kg,True,182880.455,True,475602.986,182.88045499999998
+الميثونين.xlsx,2017,392,Japan,293040,Organo-sulphur compounds; methionine,kg,True,1052387.57,True,2736862.568,1052.38757
+الميثونين.xlsx,2017,458,Malaysia,293040,Organo-sulphur compounds; methionine,kg,True,1589498.631,True,4133685.567,1589.4986310000002
+الميثونين.xlsx,2017,699,India,293040,Organo-sulphur compounds; methionine,kg,True,68306.919,True,177640.496,68.306919
+الميثونين.xlsx,2017,724,Spain,293040,Organo-sulphur compounds; methionine,kg,True,823386.979,True,2141318.528,823.386979
+الميثونين.xlsx,2017,842,USA,293040,Organo-sulphur compounds; methionine,kg,True,143542.732,True,373300.427,143.542732
+الميثونين.xlsx,2018,0,World,293040,Organo-sulphur compounds; methionine,kg,True,8286127.355,True,21839149.932,8286.127355
+الميثونين.xlsx,2018,56,Belgium,293040,Organo-sulphur compounds; methionine,kg,True,2438125.624,True,6425992.358,2438.125624
+الميثونين.xlsx,2018,156,China,293040,Organo-sulphur compounds; methionine,kg,True,402783.456,True,1061587.387,402.783456
+الميثونين.xlsx,2018,251,France,293040,Organo-sulphur compounds; methionine,kg,True,1237234.348,True,3260889.589,1237.234348
+الميثونين.xlsx,2018,276,Germany,293040,Organo-sulphur compounds; methionine,kg,True,66089.56,True,174187.5,66.08955999999999
+الميثونين.xlsx,2018,392,Japan,293040,Organo-sulphur compounds; methionine,kg,True,1028292.043,True,2710195.382,1028.292043
+الميثونين.xlsx,2018,458,Malaysia,293040,Organo-sulphur compounds; methionine,kg,True,2257270.876,True,5949326.506,2257.270876
+الميثونين.xlsx,2018,528,Netherlands,293040,Organo-sulphur compounds; methionine,kg,True,242.32,True,638.666,0.24231999999999998
+الميثونين.xlsx,2018,724,Spain,293040,Organo-sulphur compounds; methionine,kg,True,856089.127,True,2256332.543,856.089127
+الميثونين.xlsx,2019,0,World,293040,Organo-sulphur compounds; methionine,kg,True,19687187.638,True,40682155.775,19687.187638
+الميثونين.xlsx,2019,56,Belgium,293040,Organo-sulphur compounds; methionine,kg,True,8833352.716,True,18253487.385,8833.352716
+الميثونين.xlsx,2019,156,China,293040,Organo-sulphur compounds; methionine,kg,True,554419.835,True,1145668.67,554.4198349999999
+الميثونين.xlsx,2019,251,France,293040,Organo-sulphur compounds; methionine,kg,True,2210278.473,True,4567381.324,2210.2784730000003
+الميثونين.xlsx,2019,392,Japan,293040,Organo-sulphur compounds; methionine,kg,True,3927773.885,True,8116461.933,3927.7738849999996
+الميثونين.xlsx,2019,458,Malaysia,293040,Organo-sulphur compounds; methionine,kg,True,2773923.779,True,5732113.766,2773.923779
+الميثونين.xlsx,2019,528,Netherlands,293040,Organo-sulphur compounds; methionine,kg,True,217.132,True,448.687,0.217132
+الميثونين.xlsx,2019,724,Spain,293040,Organo-sulphur compounds; methionine,kg,True,1234399.586,True,2550797.868,1234.399586
+الميثونين.xlsx,2019,842,USA,293040,Organo-sulphur compounds; methionine,kg,True,152822.233,True,315796.14,152.822233
+الميثونين.xlsx,2020,0,World,293040,Organo-sulphur compounds; methionine,kg,True,21631290.201,True,45341658.221,21631.290201
+الميثونين.xlsx,2020,56,Belgium,293040,Organo-sulphur compounds; methionine,kg,True,9658233.241,True,20244761.481,9658.233241
+الميثونين.xlsx,2020,156,China,293040,Organo-sulphur compounds; methionine,kg,True,811485.67,True,1700966.774,811.48567
+الميثونين.xlsx,2020,251,France,293040,Organo-sulphur compounds; methionine,kg,True,2155077.459,True,4517288.828,2155.0774589999996
+الميثونين.xlsx,2020,276,Germany,293040,Organo-sulphur compounds; methionine,kg,True,196966.784,True,412864.906,196.96678400000002
+الميثونين.xlsx,2020,380,Italy,293040,Organo-sulphur compounds; methionine,kg,True,8356.843,True,17516.898,8.356843000000001
+الميثونين.xlsx,2020,392,Japan,293040,Organo-sulphur compounds; methionine,kg,True,4195878.231,True,8795040.653,4195.878231
+الميثونين.xlsx,2020,458,Malaysia,293040,Organo-sulphur compounds; methionine,kg,True,2671199.448,True,5599139.547,2671.199448
+الميثونين.xlsx,2020,702,Singapore,293040,Organo-sulphur compounds; methionine,kg,True,72795.378,True,152587.438,72.795378
+الميثونين.xlsx,2020,724,Spain,293040,Organo-sulphur compounds; methionine,kg,True,1845771.69,True,3868948.563,1845.77169
+الميثونين.xlsx,2020,842,USA,293040,Organo-sulphur compounds; methionine,kg,True,15525.457,True,32543.133,15.525457000000001
+الميثونين.xlsx,2021,0,World,293040,Organo-sulphur compounds; methionine,kg,True,17710894.525,True,44664544.924,17710.894525
+الميثونين.xlsx,2021,56,Belgium,293040,Organo-sulphur compounds; methionine,kg,True,9071234.34,True,22876459.071,9071.234339999999
+الميثونين.xlsx,2021,156,China,293040,Organo-sulphur compounds; methionine,kg,True,1868278.508,True,4711552.5,1868.2785079999999
+الميثونين.xlsx,2021,251,France,293040,Organo-sulphur compounds; methionine,kg,True,790857.308,True,1994438.039,790.857308
+الميثونين.xlsx,2021,276,Germany,293040,Organo-sulphur compounds; methionine,kg,True,63126.058,True,159195.609,63.126058
+الميثونين.xlsx,2021,380,Italy,293040,Organo-sulphur compounds; methionine,kg,True,6290.411,True,15863.588,6.290411
+الميثونين.xlsx,2021,392,Japan,293040,Organo-sulphur compounds; methionine,kg,True,3765143.209,True,9495195.614,3765.143209
+الميثونين.xlsx,2021,458,Malaysia,293040,Organo-sulphur compounds; methionine,kg,True,405030.704,True,1021434.125,405.030704
+الميثونين.xlsx,2021,724,Spain,293040,Organo-sulphur compounds; methionine,kg,True,1740933.987,True,4390406.377,1740.933987
+الميثونين.xlsx,2022,0,World,293040,Organo-sulphur compounds; methionine,kg,True,21047707.23,True,60532599.427,21047.70723
+الميثونين.xlsx,2022,56,Belgium,293040,Organo-sulphur compounds; methionine,kg,True,9633951.701,True,27706967.454,9633.951701
+الميثونين.xlsx,2022,156,China,293040,Organo-sulphur compounds; methionine,kg,True,3515233.392,True,10109709.93,3515.233392
+الميثونين.xlsx,2022,251,France,293040,Organo-sulphur compounds; methionine,kg,True,2703583.681,True,7775428.754,2703.583681
+الميثونين.xlsx,2022,276,Germany,293040,Organo-sulphur compounds; methionine,kg,True,110093.189,True,316624.839,110.093189
+الميثونين.xlsx,2022,360,Indonesia,293040,Organo-sulphur compounds; methionine,kg,True,470419.521,True,1352912.984,470.41952100000003
+الميثونين.xlsx,2022,380,Italy,293040,Organo-sulphur compounds; methionine,kg,True,2045.138,True,5881.758,2.045138
+الميثونين.xlsx,2022,392,Japan,293040,Organo-sulphur compounds; methionine,kg,True,2413617.085,True,6941493.18,2413.617085
+الميثونين.xlsx,2022,458,Malaysia,293040,Organo-sulphur compounds; methionine,kg,True,1106168.176,True,3181307.797,1106.168176
+الميثونين.xlsx,2022,528,Netherlands,293040,Organo-sulphur compounds; methionine,kg,True,59090.284,True,169941.953,59.090284
+الميثونين.xlsx,2022,699,India,293040,Organo-sulphur compounds; methionine,kg,True,2425.61,True,6975.985,2.4256100000000003
+الميثونين.xlsx,2022,724,Spain,293040,Organo-sulphur compounds; methionine,kg,True,1031079.453,True,2965354.793,1031.079453
+الميثونين.xlsx,2023,0,World,293040,Organo-sulphur compounds; methionine,kg,True,12212854.65,True,27486555.997,12212.854650000001
+الميثونين.xlsx,2023,56,Belgium,293040,Organo-sulphur compounds; methionine,kg,True,4775447.987,True,10747742.626,4775.447987
+الميثونين.xlsx,2023,156,China,293040,Organo-sulphur compounds; methionine,kg,True,1192692.77,True,2684304.165,1192.69277
+الميثونين.xlsx,2023,251,France,293040,Organo-sulphur compounds; methionine,kg,True,2283550.84,True,5139416.61,2283.55084
+الميثونين.xlsx,2023,380,Italy,293040,Organo-sulphur compounds; methionine,kg,True,22896.423,True,51531.262,22.896423
+الميثونين.xlsx,2023,392,Japan,293040,Organo-sulphur compounds; methionine,kg,True,2685776.477,True,6044675.685,2685.776477
+الميثونين.xlsx,2023,458,Malaysia,293040,Organo-sulphur compounds; methionine,kg,True,80266.841,True,180650.559,80.266841
+الميثونين.xlsx,2023,528,Netherlands,293040,Organo-sulphur compounds; methionine,kg,True,52976.191,True,119229.539,52.976191
+الميثونين.xlsx,2023,724,Spain,293040,Organo-sulphur compounds; methionine,kg,True,1109839.046,True,2497831.504,1109.839046
+الميثونين.xlsx,2023,826,United Kingdom,293040,Organo-sulphur compounds; methionine,kg,True,9408.075,True,21174.049,9.408075
+الميثونين.xlsx,2024,0,World,293040,Organo-sulphur compounds; methionine,kg,True,25041169.945,True,66584508.815,25041.169945
+الميثونين.xlsx,2024,56,Belgium,293040,Organo-sulphur compounds; methionine,kg,True,6604978.353,True,17562647.444,6604.978353
+الميثونين.xlsx,2024,156,China,293040,Organo-sulphur compounds; methionine,kg,True,7802691.387,True,20747368.217,7802.691387
+الميثونين.xlsx,2024,251,France,293040,Organo-sulphur compounds; methionine,kg,True,2883198.053,True,7666427.99,2883.1980529999996
+الميثونين.xlsx,2024,380,Italy,293040,Organo-sulphur compounds; methionine,kg,True,30276.665,True,80505.699,30.276665
+الميثونين.xlsx,2024,392,Japan,293040,Organo-sulphur compounds; methionine,kg,True,3637322.5,True,9671646.037,3637.3225
+الميثونين.xlsx,2024,458,Malaysia,293040,Organo-sulphur compounds; methionine,kg,True,2262182.164,True,6015145.8,2262.182164
+الميثونين.xlsx,2024,699,India,293040,Organo-sulphur compounds; methionine,kg,True,17519.769,True,46585.092,17.519769
+الميثونين.xlsx,2024,724,Spain,293040,Organo-sulphur compounds; methionine,kg,True,1776924.775,True,4724845.67,1776.924775
+الميثونين.xlsx,2024,826,United Kingdom,293040,Organo-sulphur compounds; methionine,kg,True,26076.28,True,69336.867,26.07628
+الميثونين.xlsx,2025,0,World,293040,Organo-sulphur compounds; methionine,kg,True,20759082.264,True,51028221.51,20759.082263999997
+الميثونين.xlsx,2025,56,Belgium,293040,Organo-sulphur compounds; methionine,kg,True,7152434.757,True,17581510.611,7152.434757
+الميثونين.xlsx,2025,156,China,293040,Organo-sulphur compounds; methionine,kg,True,3844934.099,True,9451292.037,3844.934099
+الميثونين.xlsx,2025,251,France,293040,Organo-sulphur compounds; methionine,kg,True,1726345.162,True,4243555.771,1726.345162
+الميثونين.xlsx,2025,276,Germany,293040,Organo-sulphur compounds; methionine,kg,True,505.657,True,1242.964,0.505657
+الميثونين.xlsx,2025,360,Indonesia,293040,Organo-sulphur compounds; methionine,kg,True,54431.329,True,133798.492,54.431329
+الميثونين.xlsx,2025,380,Italy,293040,Organo-sulphur compounds; methionine,kg,True,14655.499,True,36024.91,14.655498999999999
+الميثونين.xlsx,2025,392,Japan,293040,Organo-sulphur compounds; methionine,kg,True,3438227.851,True,8451561.112,3438.2278509999996
+الميثونين.xlsx,2025,458,Malaysia,293040,Organo-sulphur compounds; methionine,kg,True,1981420.434,True,4870560.245,1981.420434
+الميثونين.xlsx,2025,528,Netherlands,293040,Organo-sulphur compounds; methionine,kg,True,4862.107,True,11951.622,4.862107
+الميثونين.xlsx,2025,699,India,293040,Organo-sulphur compounds; methionine,kg,True,163149.19,True,401039.55,163.14919
+الميثونين.xlsx,2025,724,Spain,293040,Organo-sulphur compounds; methionine,kg,True,2362524.934,True,5807359.118,2362.524934
+الميثونين.xlsx,2025,757,Switzerland,293040,Organo-sulphur compounds; methionine,kg,True,1801.708,True,4428.807,1.801708
+الميثونين.xlsx,2025,792,Türkiye,293040,Organo-sulphur compounds; methionine,kg,True,2740.623,True,6736.767,2.7406230000000003
+الميثونين.xlsx,2025,826,United Kingdom,293040,Organo-sulphur compounds; methionine,kg,True,10331.645,True,25396.376,10.331645
+الميثونين.xlsx,2025,842,USA,293040,Organo-sulphur compounds; methionine,kg,True,717.268,True,1763.128,0.717268
+امينو اسيد.xlsx,2015,0,World,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,12639403.545,True,17682756.567,12639.403545
+امينو اسيد.xlsx,2015,32,Argentina,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,44721.323,True,62565.949,44.721323
+امينو اسيد.xlsx,2015,56,Belgium,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,50596.299,True,70785.146,50.596299
+امينو اسيد.xlsx,2015,76,Brazil,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,3778820.486,True,5286638.925,3778.820486
+امينو اسيد.xlsx,2015,156,China,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,3623571.008,True,5069442.068,3623.571008
+امينو اسيد.xlsx,2015,251,France,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,182070.082,True,254719.373,182.07008199999999
+امينو اسيد.xlsx,2015,276,Germany,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,41076.812,True,57467.211,41.076812
+امينو اسيد.xlsx,2015,348,Hungary,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,463219.928,True,648053.146,463.21992800000004
+امينو اسيد.xlsx,2015,360,Indonesia,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,3050125.116,True,4267180.784,3050.1251159999997
+امينو اسيد.xlsx,2015,392,Japan,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,116419.72,True,162873.316,116.41972
+امينو اسيد.xlsx,2015,410,Rep. of Korea,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,542711.446,True,759263.232,542.711446
+امينو اسيد.xlsx,2015,699,India,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,108522.45,True,151824.891,108.52244999999999
+امينو اسيد.xlsx,2015,842,USA,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,637548.874,True,891942.526,637.548874
+امينو اسيد.xlsx,2016,0,World,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,13360301.622,True,16725139.234,13360.301621999999
+امينو اسيد.xlsx,2016,32,Argentina,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,38557.782,True,48268.691,38.557781999999996
+امينو اسيد.xlsx,2016,76,Brazil,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,3349529.893,True,4193120.441,3349.5298930000004
+امينو اسيد.xlsx,2016,156,China,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,3097061.379,True,3877066.869,3097.061379
+امينو اسيد.xlsx,2016,251,France,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,110571.883,True,138419.79,110.571883
+امينو اسيد.xlsx,2016,276,Germany,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,1658067.44,True,2075657.39,1658.06744
+امينو اسيد.xlsx,2016,360,Indonesia,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,3688813.986,True,4617854.392,3688.813986
+امينو اسيد.xlsx,2016,410,Rep. of Korea,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,437819.18,True,548085.437,437.81918
+امينو اسيد.xlsx,2016,699,India,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,44925.058,True,56239.587,44.925058
+امينو اسيد.xlsx,2016,842,USA,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,934955.021,True,1170426.638,934.955021
+امينو اسيد.xlsx,2017,0,World,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,12645431.608,True,16680621.259,12645.431607999999
+امينو اسيد.xlsx,2017,76,Brazil,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,2730618.884,True,3601966.371,2730.618884
+امينو اسيد.xlsx,2017,156,China,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,2686295.058,True,3543498.699,2686.295058
+امينو اسيد.xlsx,2017,251,France,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,191368.239,True,252434.335,191.368239
+امينو اسيد.xlsx,2017,276,Germany,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,66171.258,True,87286.677,66.171258
+امينو اسيد.xlsx,2017,360,Indonesia,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,2651563.813,True,3497684.625,2651.563813
+امينو اسيد.xlsx,2017,410,Rep. of Korea,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,1962779.678,True,2589107.706,1962.779678
+امينو اسيد.xlsx,2017,699,India,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,88382.485,True,116585.562,88.382485
+امينو اسيد.xlsx,2017,702,Singapore,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,556991.232,True,734728.562,556.991232
+امينو اسيد.xlsx,2017,842,USA,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,1711260.962,True,2257328.722,1711.260962
+امينو اسيد.xlsx,2018,0,World,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,10031379.515,True,13983996.163,10031.379515
+امينو اسيد.xlsx,2018,76,Brazil,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,1077697.494,True,1502337.5,1077.697494
+امينو اسيد.xlsx,2018,156,China,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,4942498.201,True,6889967.205,4942.498201
+امينو اسيد.xlsx,2018,360,Indonesia,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,2325334.565,True,3241575.058,2325.334565
+امينو اسيد.xlsx,2018,392,Japan,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,42484.665,True,59224.695,42.484665
+امينو اسيد.xlsx,2018,410,Rep. of Korea,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,192561.525,True,268435.625,192.561525
+امينو اسيد.xlsx,2018,699,India,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,15230.727,True,21232.017,15.230727
+امينو اسيد.xlsx,2018,842,USA,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,1435572.338,True,2001224.063,1435.572338
+امينو اسيد.xlsx,2019,0,World,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,19123814.855,True,21198059.35,19123.814855
+امينو اسيد.xlsx,2019,156,China,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,10328832.999,True,11449139.024,10328.832999
+امينو اسيد.xlsx,2019,251,France,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,137578.716,True,152501.047,137.578716
+امينو اسيد.xlsx,2019,360,Indonesia,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,3039704.211,True,3369402.536,3039.704211
+امينو اسيد.xlsx,2019,392,Japan,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,24019.243,True,26624.465,24.019243
+امينو اسيد.xlsx,2019,410,Rep. of Korea,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,2364419.461,True,2620873.735,2364.419461
+امينو اسيد.xlsx,2019,458,Malaysia,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,19641.859,True,21772.293,19.641859
+امينو اسيد.xlsx,2019,699,India,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,29491.434,True,32690.192,29.491434
+امينو اسيد.xlsx,2019,842,USA,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,3180126.931,True,3525056.059,3180.126931
+امينو اسيد.xlsx,2020,0,World,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,17425856.527,True,18844727.576,17425.856527
+امينو اسيد.xlsx,2020,156,China,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,10544575.166,True,11403149.458,10544.575165999999
+امينو اسيد.xlsx,2020,360,Indonesia,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,2775304.053,True,3001278.516,2775.304053
+امينو اسيد.xlsx,2020,392,Japan,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,125267.003,True,135466.658,125.267003
+امينو اسيد.xlsx,2020,410,Rep. of Korea,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,2585323.071,True,2795828.653,2585.323071
+امينو اسيد.xlsx,2020,699,India,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,59.816,True,64.686,0.059816
+امينو اسيد.xlsx,2020,702,Singapore,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,35921.417,True,38846.258,35.921417
+امينو اسيد.xlsx,2020,842,USA,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,1359406.001,True,1470093.348,1359.4060009999998
+امينو اسيد.xlsx,2021,0,World,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,15274982.416,True,24697970.85,15274.982415999999
+امينو اسيد.xlsx,2021,156,China,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,10806147.297,True,17472354.71,10806.147297
+امينو اسيد.xlsx,2021,251,France,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,45361.572,True,73344.686,45.361572
+امينو اسيد.xlsx,2021,392,Japan,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,120467.438,True,194782.631,120.467438
+امينو اسيد.xlsx,2021,410,Rep. of Korea,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,3184656.617,True,5149240.383,3184.656617
+امينو اسيد.xlsx,2021,699,India,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,11.797,True,19.074,0.011797
+امينو اسيد.xlsx,2021,842,USA,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,1118337.695,True,1808229.367,1118.3376950000002
+امينو اسيد.xlsx,2022,0,World,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,19542661.189,True,39665878.421,19542.661189
+امينو اسيد.xlsx,2022,156,China,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,17207424.518,True,34926031.939,17207.424518
+امينو اسيد.xlsx,2022,344,"China, Hong Kong SAR",292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,42072.08,True,85394.0,42.07208
+امينو اسيد.xlsx,2022,360,Indonesia,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,1241336.504,True,2519549.531,1241.3365039999999
+امينو اسيد.xlsx,2022,392,Japan,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,10641.925,True,21599.99,10.641924999999999
+امينو اسيد.xlsx,2022,410,Rep. of Korea,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,958579.298,True,1945635.219,958.579298
+امينو اسيد.xlsx,2022,458,Malaysia,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,81422.585,True,165264.0,81.42258500000001
+امينو اسيد.xlsx,2022,699,India,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,1184.28,True,2403.741,1.18428
+امينو اسيد.xlsx,2023,0,World,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,11392534.265,True,15744360.958,11392.534265
+امينو اسيد.xlsx,2023,76,Brazil,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,167584.505,True,231600.0,167.584505
+امينو اسيد.xlsx,2023,156,China,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,9992481.451,True,13809502.888,9992.481451
+امينو اسيد.xlsx,2023,344,"China, Hong Kong SAR",292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,217572.126,True,300682.359,217.572126
+امينو اسيد.xlsx,2023,380,Italy,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,26690.171,True,36885.531,26.690171
+امينو اسيد.xlsx,2023,392,Japan,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,6719.378,True,9286.108,6.719378
+امينو اسيد.xlsx,2023,410,Rep. of Korea,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,974748.303,True,1347091.768,974.748303
+امينو اسيد.xlsx,2023,699,India,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,6738.332,True,9312.303,6.738332000000001
+امينو اسيد.xlsx,2024,0,World,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,18930491.701,True,26797326.154,18930.491701000003
+امينو اسيد.xlsx,2024,156,China,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,18586550.928,True,26310455.912,18586.550928
+امينو اسيد.xlsx,2024,246,Finland,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,28504.536,True,40350.0,28.504536
+امينو اسيد.xlsx,2024,251,France,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,158103.098,True,223805.084,158.103098
+امينو اسيد.xlsx,2024,344,"China, Hong Kong SAR",292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,115685.041,True,163759.602,115.685041
+امينو اسيد.xlsx,2024,392,Japan,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,27674.509,True,39175.045,27.674508999999997
+امينو اسيد.xlsx,2024,699,India,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,8036.729,True,11376.506,8.036729000000001
+امينو اسيد.xlsx,2024,842,USA,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,5936.86,True,8404.007,5.936859999999999
+امينو اسيد.xlsx,2025,0,World,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,22584121.847,True,35525893.827,22584.121847
+امينو اسيد.xlsx,2025,156,China,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,22353869.707,True,35163696.301,22353.869706999998
+امينو اسيد.xlsx,2025,251,France,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,230241.461,True,362180.729,230.24146100000002
+امينو اسيد.xlsx,2025,842,USA,292241,"Amino-acids, other than those containing more than one kind of oxygen function, and their esters; lysine and its esters; salts thereof",kg,True,10.678,True,16.797,0.010678
+سكب عباد الشمس.xlsx,2015,0,World,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,119389274.3,True,30143830.577,119389.27429999999
+سكب عباد الشمس.xlsx,2015,100,Bulgaria,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,10654902.458,True,2690187.845,10654.902458
+سكب عباد الشمس.xlsx,2015,300,Greece,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,13605234.5,True,3435098.221,13605.2345
+سكب عباد الشمس.xlsx,2015,642,Romania,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,9380246.2,True,2368358.078,9380.2462
+سكب عباد الشمس.xlsx,2015,643,Russian Federation,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,24620985.168,True,6216394.311,24620.985168000003
+سكب عباد الشمس.xlsx,2015,699,India,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,730746.37,True,184501.455,730.74637
+سكب عباد الشمس.xlsx,2015,804,Ukraine,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,60397159.605,True,15249290.668,60397.15960499999
+سكب عباد الشمس.xlsx,2016,0,World,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,78910788.217,True,17816080.761,78910.788217
+سكب عباد الشمس.xlsx,2016,100,Bulgaria,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,8018023.26,True,1810268.953,8018.02326
+سكب عباد الشمس.xlsx,2016,300,Greece,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,6932213.505,True,1565120.289,6932.213505
+سكب عباد الشمس.xlsx,2016,380,Italy,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,2466846.852,True,556952.271,2466.846852
+سكب عباد الشمس.xlsx,2016,498,Rep. of Moldova,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,10388088.688,True,2345370.401,10388.088688
+سكب عباد الشمس.xlsx,2016,528,Netherlands,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,3863457.726,True,872272.048,3863.4577259999996
+سكب عباد الشمس.xlsx,2016,643,Russian Federation,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,14272056.495,True,3222273.112,14272.056494999999
+سكب عباد الشمس.xlsx,2016,804,Ukraine,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,32970101.691,True,7443823.686,32970.101690999996
+سكب عباد الشمس.xlsx,2017,0,World,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,242777786.977,True,47870550.88,242777.786977
+سكب عباد الشمس.xlsx,2017,100,Bulgaria,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,13355399.153,True,2633397.077,13355.399153
+سكب عباد الشمس.xlsx,2017,112,Belarus,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,8056496.261,True,1588567.55,8056.496261
+سكب عباد الشمس.xlsx,2017,300,Greece,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,5768049.506,True,1137335.136,5768.049506
+سكب عباد الشمس.xlsx,2017,410,Rep. of Korea,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,541329.117,True,106738.443,541.329117
+سكب عباد الشمس.xlsx,2017,498,Rep. of Moldova,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,6318465.861,True,1245865.387,6318.465861
+سكب عباد الشمس.xlsx,2017,642,Romania,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,7548288.438,True,1488359.912,7548.2884380000005
+سكب عباد الشمس.xlsx,2017,643,Russian Federation,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,78550634.418,True,15488493.36,78550.634418
+سكب عباد الشمس.xlsx,2017,804,Ukraine,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,122639124.225,True,24181794.015,122639.12422499999
+سكب عباد الشمس.xlsx,2018,0,World,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,165329533.458,True,35968795.176,165329.533458
+سكب عباد الشمس.xlsx,2018,100,Bulgaria,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,13455123.908,True,2927272.495,13455.123908
+سكب عباد الشمس.xlsx,2018,643,Russian Federation,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,13714924.53,True,2983794.25,13714.92453
+سكب عباد الشمس.xlsx,2018,804,Ukraine,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,138159485.02,True,30057728.431,138159.48502000002
+سكب عباد الشمس.xlsx,2019,0,World,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,147551538.232,True,34954654.224,147551.538232
+سكب عباد الشمس.xlsx,2019,100,Bulgaria,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,26729219.821,True,6332096.891,26729.219821
+سكب عباد الشمس.xlsx,2019,498,Rep. of Moldova,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,14205559.703,True,3365267.712,14205.559702999999
+سكب عباد الشمس.xlsx,2019,643,Russian Federation,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,5654130.707,True,1339451.87,5654.130707
+سكب عباد الشمس.xlsx,2019,804,Ukraine,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,100962628.001,True,23917837.751,100962.628001
+سكب عباد الشمس.xlsx,2020,0,World,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,189705202.912,True,45854020.551,189705.202912
+سكب عباد الشمس.xlsx,2020,100,Bulgaria,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,21951875.165,True,5306031.25,21951.875164999998
+سكب عباد الشمس.xlsx,2020,498,Rep. of Moldova,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,36139244.362,True,8735288.375,36139.244362000005
+سكب عباد الشمس.xlsx,2020,643,Russian Federation,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,16536315.641,True,3997025.625,16536.315641
+سكب عباد الشمس.xlsx,2020,804,Ukraine,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,115077767.745,True,27815675.301,115077.767745
+سكب عباد الشمس.xlsx,2021,0,World,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,115224793.428,True,38754635.688,115224.793428
+سكب عباد الشمس.xlsx,2021,100,Bulgaria,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,11251170.494,True,3784211.719,11251.170494000002
+سكب عباد الشمس.xlsx,2021,498,Rep. of Moldova,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,17406421.639,True,5854465.078,17406.421639
+سكب عباد الشمس.xlsx,2021,642,Romania,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,3301606.764,True,1110460.375,3301.606764
+سكب عباد الشمس.xlsx,2021,643,Russian Federation,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,18290989.945,True,6151980.234,18290.989945
+سكب عباد الشمس.xlsx,2021,792,Türkiye,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,1033506.225,True,347608.844,1033.506225
+سكب عباد الشمس.xlsx,2021,804,Ukraine,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,62907592.136,True,21158300.594,62907.592136
+سكب عباد الشمس.xlsx,2021,842,USA,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,1033506.225,True,347608.844,1033.506225
+سكب عباد الشمس.xlsx,2022,0,World,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,123144087.512,True,42144931.61,123144.087512
+سكب عباد الشمس.xlsx,2022,100,Bulgaria,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,6362368.528,True,2177462.125,6362.368528
+سكب عباد الشمس.xlsx,2022,498,Rep. of Moldova,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,45562721.033,True,15593422.313,45562.721033
+سكب عباد الشمس.xlsx,2022,643,Russian Federation,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,8009788.794,True,2741276.563,8009.788794
+سكب عباد الشمس.xlsx,2022,804,Ukraine,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,63209209.158,True,21632770.61,63209.209158
+سكب عباد الشمس.xlsx,2023,0,World,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,152127842.748,True,51330199.154,152127.842748
+سكب عباد الشمس.xlsx,2023,32,Argentina,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,518982.359,True,175112.375,518.982359
+سكب عباد الشمس.xlsx,2023,498,Rep. of Moldova,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,22222566.972,True,7498224.965,22222.566972
+سكب عباد الشمس.xlsx,2023,643,Russian Federation,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,1252252.924,True,422528.781,1252.2529240000001
+سكب عباد الشمس.xlsx,2023,804,Ukraine,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,128134040.492,True,43234333.033,128134.040492
+سكب عباد الشمس.xlsx,2024,0,World,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,180281223.631,True,52247097.789,180281.223631
+سكب عباد الشمس.xlsx,2024,100,Bulgaria,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,4298856.436,True,1245846.728,4298.856436
+سكب عباد الشمس.xlsx,2024,498,Rep. of Moldova,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,6497788.946,True,1883116.875,6497.788946000001
+سكب عباد الشمس.xlsx,2024,643,Russian Federation,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,5694184.532,True,1650225.188,5694.184531999999
+سكب عباد الشمس.xlsx,2024,804,Ukraine,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,163790393.717,True,47467908.998,163790.393717
+سكب عباد الشمس.xlsx,2025,0,World,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,139483471.833,True,39359541.826,139483.47183300002
+سكب عباد الشمس.xlsx,2025,100,Bulgaria,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,17224423.615,True,4860399.679,17224.423615
+سكب عباد الشمس.xlsx,2025,643,Russian Federation,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,20365687.902,True,5746803.792,20365.687901999998
+سكب عباد الشمس.xlsx,2025,804,Ukraine,230630,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils",kg,True,101893360.315,True,28752338.355,101893.360315
+شعير.xlsx,2015,0,World,1201,"Soya beans, whether or not broken",kg,True,1514095521.3,True,741121481.35,1514095.5213
+شعير.xlsx,2015,32,Argentina,1201,"Soya beans, whether or not broken",kg,True,361547846.714,True,176970918.919,361547.846714
+شعير.xlsx,2015,76,Brazil,1201,"Soya beans, whether or not broken",kg,True,412550541.817,True,201935785.677,412550.54181699996
+شعير.xlsx,2015,124,Canada,1201,"Soya beans, whether or not broken",kg,True,87667262.751,True,42911487.896,87667.262751
+شعير.xlsx,2015,156,China,1201,"Soya beans, whether or not broken",kg,True,455.706,True,223.06,0.455706
+شعير.xlsx,2015,498,Rep. of Moldova,1201,"Soya beans, whether or not broken",kg,True,6603208.39,True,3232147.189,6603.20839
+شعير.xlsx,2015,600,Paraguay,1201,"Soya beans, whether or not broken",kg,True,58088890.523,True,28433427.078,58088.890523
+شعير.xlsx,2015,804,Ukraine,1201,"Soya beans, whether or not broken",kg,True,102680130.406,True,50260006.242,102680.130406
+شعير.xlsx,2015,842,USA,1201,"Soya beans, whether or not broken",kg,True,447459877.282,True,219023253.441,447459.87728200003
+شعير.xlsx,2015,858,Uruguay,1201,"Soya beans, whether or not broken",kg,True,37497307.71,True,18354231.847,37497.30771
+شعير.xlsx,2016,0,World,1201,"Soya beans, whether or not broken",kg,True,345639351.15536445,True,655443831.501,345639.3511553645
+شعير.xlsx,2016,32,Argentina,1201,"Soya beans, whether or not broken",kg,True,105979345.95954396,True,200971065.197,105979.34595954396
+شعير.xlsx,2016,410,Rep. of Korea,1201,"Soya beans, whether or not broken",kg,False,57.84035911255219,False,109.684,0.05784035911255219
+شعير.xlsx,2016,600,Paraguay,1201,"Soya beans, whether or not broken",kg,False,16925.59230130347,False,32096.389,16.92559230130347
+شعير.xlsx,2016,764,Thailand,1201,"Soya beans, whether or not broken",kg,False,1429.0087088860628,False,2709.862,1.4290087088860628
+شعير.xlsx,2016,804,Ukraine,1201,"Soya beans, whether or not broken",kg,True,190054494.68223286,True,360404698.632,190054.49468223285
+شعير.xlsx,2016,842,USA,1201,"Soya beans, whether or not broken",kg,True,49587098.07221829,True,94033151.737,49587.098072218294
+شعير.xlsx,2017,0,World,1201,"Soya beans, whether or not broken",kg,False,279599119.6860113,False,869490604.775,279599.11968601134
+شعير.xlsx,2017,32,Argentina,1201,"Soya beans, whether or not broken",kg,False,57692003.80632821,False,179409203.207,57692.003806328205
+شعير.xlsx,2017,76,Brazil,1201,"Soya beans, whether or not broken",kg,False,14506598.111440567,False,45112269.235,14506.598111440568
+شعير.xlsx,2017,410,Rep. of Korea,1201,"Soya beans, whether or not broken",kg,False,2657516.3500403566,False,8264280.306,2657.5163500403564
+شعير.xlsx,2017,600,Paraguay,1201,"Soya beans, whether or not broken",kg,False,7243648.095831069,False,22526122.295,7243.648095831069
+شعير.xlsx,2017,764,Thailand,1201,"Soya beans, whether or not broken",kg,False,352.61962095057885,False,1096.568,0.35261962095057886
+شعير.xlsx,2017,804,Ukraine,1201,"Soya beans, whether or not broken",kg,False,67120435.90875572,False,208729514.158,67120.43590875572
+شعير.xlsx,2017,842,USA,1201,"Soya beans, whether or not broken",kg,False,122964177.62060995,False,382391036.442,122964.17762060996
+شعير.xlsx,2017,858,Uruguay,1201,"Soya beans, whether or not broken",kg,False,7414387.1730629215,False,23057082.563,7414.387173062922
+شعير.xlsx,2018,0,World,1201,"Soya beans, whether or not broken",kg,True,940696603.9056795,True,1410894750.896,940696.6039056794
+شعير.xlsx,2018,32,Argentina,1201,"Soya beans, whether or not broken",kg,False,30538785.096924573,False,45803303.013,30538.785096924574
+شعير.xlsx,2018,76,Brazil,1201,"Soya beans, whether or not broken",kg,True,34784492.7244127,True,52171186.75,34784.4927244127
+شعير.xlsx,2018,156,China,1201,"Soya beans, whether or not broken",kg,False,14919.107602232596,False,22376.28,14.919107602232597
+شعير.xlsx,2018,600,Paraguay,1201,"Soya beans, whether or not broken",kg,False,19725452.65807057,False,29585030.39,19725.45265807057
+شعير.xlsx,2018,764,Thailand,1201,"Soya beans, whether or not broken",kg,False,4070.8745314620073,False,6105.662,4.070874531462008
+شعير.xlsx,2018,804,Ukraine,1201,"Soya beans, whether or not broken",kg,False,54587455.95269474,False,81872470.623,54587.455952694734
+شعير.xlsx,2018,842,USA,1201,"Soya beans, whether or not broken",kg,False,801041427.4907765,False,1201434278.177,801041.4274907765
+شعير.xlsx,2019,0,World,1201,"Soya beans, whether or not broken",kg,False,1073539120.5466319,False,1650045911.548,1073539.120546632
+شعير.xlsx,2019,32,Argentina,1201,"Soya beans, whether or not broken",kg,False,160128917.41019386,False,246120574.869,160128.91741019386
+شعير.xlsx,2019,156,China,1201,"Soya beans, whether or not broken",kg,False,3672.898692300855,False,5645.301,3.6728986923008553
+شعير.xlsx,2019,600,Paraguay,1201,"Soya beans, whether or not broken",kg,False,10293845.533256413,False,15821796.72,10293.845533256414
+شعير.xlsx,2019,764,Thailand,1201,"Soya beans, whether or not broken",kg,False,10863.694353441982,False,16697.663,10.863694353441982
+شعير.xlsx,2019,804,Ukraine,1201,"Soya beans, whether or not broken",kg,False,133462369.13946721,False,205133685.703,133462.36913946722
+شعير.xlsx,2019,842,USA,1201,"Soya beans, whether or not broken",kg,False,735573957.308479,False,1130588329.45,735573.957308479
+شعير.xlsx,2019,858,Uruguay,1201,"Soya beans, whether or not broken",kg,False,34065494.56153916,False,52359181.841,34065.494561539155
+شعير.xlsx,2020,0,World,1201,"Soya beans, whether or not broken",kg,True,1708081365.4278326,True,1961394840.753,1708081.3654278326
+شعير.xlsx,2020,32,Argentina,1201,"Soya beans, whether or not broken",kg,False,163701282.5543352,False,187978662.8,163701.2825543352
+شعير.xlsx,2020,124,Canada,1201,"Soya beans, whether or not broken",kg,False,11630864.695011565,False,13355756.036,11630.864695011565
+شعير.xlsx,2020,156,China,1201,"Soya beans, whether or not broken",kg,True,9733.954938465899,True,11177.529,9.733954938465898
+شعير.xlsx,2020,764,Thailand,1201,"Soya beans, whether or not broken",kg,False,20788.19562834867,False,23871.146,20.788195628348667
+شعير.xlsx,2020,804,Ukraine,1201,"Soya beans, whether or not broken",kg,False,66579979.27958491,False,76453985.448,66579.9792795849
+شعير.xlsx,2020,842,USA,1201,"Soya beans, whether or not broken",kg,False,1330447768.9049647,False,1527757074.481,1330447.7689049647
+شعير.xlsx,2020,858,Uruguay,1201,"Soya beans, whether or not broken",kg,False,135690947.8433694,False,155814313.313,135690.9478433694
+شعير.xlsx,2021,0,World,1201,"Soya beans, whether or not broken",kg,True,4317777626.3,True,2793036809.689,4317777.626300001
+شعير.xlsx,2021,32,Argentina,1201,"Soya beans, whether or not broken",kg,True,722608411.174,True,467795802.188,722608.411174
+شعير.xlsx,2021,56,Belgium,1201,"Soya beans, whether or not broken",kg,True,9493441.399,True,6119961.5,9493.441399
+شعير.xlsx,2021,76,Brazil,1201,"Soya beans, whether or not broken",kg,True,100672619.674,True,64898758.063,100672.619674
+شعير.xlsx,2021,124,Canada,1201,"Soya beans, whether or not broken",kg,True,106017289.104,True,68344207.375,106017.289104
+شعير.xlsx,2021,156,China,1201,"Soya beans, whether or not broken",kg,True,26506.086,True,17087.189,26.506086
+شعير.xlsx,2021,231,Ethiopia,1201,"Soya beans, whether or not broken",kg,True,996912.339,True,642661.063,996.9123390000001
+شعير.xlsx,2021,276,Germany,1201,"Soya beans, whether or not broken",kg,True,13437246.756,True,11195634.5,13437.246755999999
+شعير.xlsx,2021,348,Hungary,1201,"Soya beans, whether or not broken",kg,True,996912.339,True,642661.063,996.9123390000001
+شعير.xlsx,2021,380,Italy,1201,"Soya beans, whether or not broken",kg,True,1015381.261,True,664369.441,1015.3812610000001
+شعير.xlsx,2021,600,Paraguay,1201,"Soya beans, whether or not broken",kg,True,25856659.235,True,16668534.875,25856.659235
+شعير.xlsx,2021,642,Romania,1201,"Soya beans, whether or not broken",kg,True,971606.322,True,626347.5,971.6063220000001
+شعير.xlsx,2021,643,Russian Federation,1201,"Soya beans, whether or not broken",kg,True,4984561.988,True,3213305.5,4984.5619879999995
+شعير.xlsx,2021,688,Serbia,1201,"Soya beans, whether or not broken",kg,True,39.478,True,25.45,0.039478
+شعير.xlsx,2021,699,India,1201,"Soya beans, whether or not broken",kg,True,14758424.947,True,9514041.188,14758.424947000001
+شعير.xlsx,2021,729,Sudan,1201,"Soya beans, whether or not broken",kg,True,26258.612,True,16927.654,26.258612
+شعير.xlsx,2021,764,Thailand,1201,"Soya beans, whether or not broken",kg,True,11185.966,True,7211.05,11.185966
+شعير.xlsx,2021,804,Ukraine,1201,"Soya beans, whether or not broken",kg,True,59408735.875,True,40831225.188,59408.735875
+شعير.xlsx,2021,842,USA,1201,"Soya beans, whether or not broken",kg,True,2612896154.396,True,1686940790.298,2612896.154396
+شعير.xlsx,2021,858,Uruguay,1201,"Soya beans, whether or not broken",kg,True,643599279.347,True,414897258.607,643599.279347
+شعير.xlsx,2022,0,World,1201,"Soya beans, whether or not broken",kg,True,3714814043.295,True,2788937008.002,3714814.043295
+شعير.xlsx,2022,32,Argentina,1201,"Soya beans, whether or not broken",kg,True,24602160.27,True,18470339.148,24602.16027
+شعير.xlsx,2022,76,Brazil,1201,"Soya beans, whether or not broken",kg,True,221405256.489,True,166222402.088,221405.256489
+شعير.xlsx,2022,124,Canada,1201,"Soya beans, whether or not broken",kg,True,94053289.739,True,70611529.25,94053.289739
+شعير.xlsx,2022,156,China,1201,"Soya beans, whether or not broken",kg,True,19965.49,True,14989.309,19.965490000000003
+شعير.xlsx,2022,566,Nigeria,1201,"Soya beans, whether or not broken",kg,True,16.883,True,12.675,0.016883
+شعير.xlsx,2022,682,Saudi Arabia,1201,"Soya beans, whether or not broken",kg,True,2715.438,True,2038.645,2.7154380000000002
+شعير.xlsx,2022,729,Sudan,1201,"Soya beans, whether or not broken",kg,True,2347698.281,True,1762559.994,2347.698281
+شعير.xlsx,2022,764,Thailand,1201,"Soya beans, whether or not broken",kg,True,26208.329,True,19676.188,26.208329000000003
+شعير.xlsx,2022,804,Ukraine,1201,"Soya beans, whether or not broken",kg,True,49453272.876,True,37127581.969,49453.272876
+شعير.xlsx,2022,842,USA,1201,"Soya beans, whether or not broken",kg,True,3117208686.201,True,2340278292.611,3117208.686201
+شعير.xlsx,2022,858,Uruguay,1201,"Soya beans, whether or not broken",kg,True,205694773.3,True,154427586.125,205694.7733
+شعير.xlsx,2023,0,World,1201,"Soya beans, whether or not broken",kg,True,2557632338.732,True,1698796387.35,2557632.338732
+شعير.xlsx,2023,32,Argentina,1201,"Soya beans, whether or not broken",kg,True,43747749.999,True,29057546.125,43747.749999
+شعير.xlsx,2023,76,Brazil,1201,"Soya beans, whether or not broken",kg,True,137721871.366,True,91475781.719,137721.871366
+شعير.xlsx,2023,124,Canada,1201,"Soya beans, whether or not broken",kg,True,53638304.606,True,35626918.188,53638.304606
+شعير.xlsx,2023,642,Romania,1201,"Soya beans, whether or not broken",kg,True,16614672.545,True,11035575.86,16614.672545
+شعير.xlsx,2023,643,Russian Federation,1201,"Soya beans, whether or not broken",kg,True,584104.649,True,387966.188,584.104649
+شعير.xlsx,2023,729,Sudan,1201,"Soya beans, whether or not broken",kg,True,12567660.32,True,8347523.459,12567.66032
+شعير.xlsx,2023,764,Thailand,1201,"Soya beans, whether or not broken",kg,True,48011.576,True,31889.607,48.011576
+شعير.xlsx,2023,804,Ukraine,1201,"Soya beans, whether or not broken",kg,True,975700668.116,True,648066864.431,975700.668116
+شعير.xlsx,2023,842,USA,1201,"Soya beans, whether or not broken",kg,True,1225208027.56,True,813791309.818,1225208.0275599998
+شعير.xlsx,2023,858,Uruguay,1201,"Soya beans, whether or not broken",kg,True,91801267.996,True,60975011.953,91801.26799600001
+شعير.xlsx,2024,0,World,1201,"Soya beans, whether or not broken",kg,True,3441621528.73,True,1988949347.674,3441621.52873
+شعير.xlsx,2024,76,Brazil,1201,"Soya beans, whether or not broken",kg,True,566163823.446,True,326904396.296,566163.823446
+شعير.xlsx,2024,124,Canada,1201,"Soya beans, whether or not broken",kg,True,45020602.066,True,25995007.328,45020.602066
+شعير.xlsx,2024,288,Ghana,1201,"Soya beans, whether or not broken",kg,True,22.377,True,12.921,0.022376999999999998
+شعير.xlsx,2024,642,Romania,1201,"Soya beans, whether or not broken",kg,True,2635081.334,True,1521502.5,2635.081334
+شعير.xlsx,2024,643,Russian Federation,1201,"Soya beans, whether or not broken",kg,True,431118.591,True,250776.841,431.11859100000004
+شعير.xlsx,2024,729,Sudan,1201,"Soya beans, whether or not broken",kg,True,3090233.657,True,1784308.58,3090.233657
+شعير.xlsx,2024,760,Syria,1201,"Soya beans, whether or not broken",kg,True,3355103.84,True,1937245.281,3355.1038399999998
+شعير.xlsx,2024,764,Thailand,1201,"Soya beans, whether or not broken",kg,True,41912.152,True,24200.18,41.912152
+شعير.xlsx,2024,792,Türkiye,1201,"Soya beans, whether or not broken",kg,True,651.638,True,972.641,0.651638
+شعير.xlsx,2024,804,Ukraine,1201,"Soya beans, whether or not broken",kg,True,858511397.887,True,497447701.252,858511.397887
+شعير.xlsx,2024,842,USA,1201,"Soya beans, whether or not broken",kg,True,1856486015.635,True,1071944635.285,1856486.015635
+شعير.xlsx,2024,858,Uruguay,1201,"Soya beans, whether or not broken",kg,True,105885566.106,True,61138588.569,105885.56610600001
+شعير.xlsx,2025,0,World,1201,"Soya beans, whether or not broken",kg,True,3785245421.879,True,2180090721.063,3785245.421879
+شعير.xlsx,2025,76,Brazil,1201,"Soya beans, whether or not broken",kg,True,63019938.137,True,36295736.168,63019.938137000005
+شعير.xlsx,2025,124,Canada,1201,"Soya beans, whether or not broken",kg,True,25835763.642,True,14879863.24,25835.763642
+شعير.xlsx,2025,156,China,1201,"Soya beans, whether or not broken",kg,True,9070.616,True,5224.135,9.070616
+شعير.xlsx,2025,251,France,1201,"Soya beans, whether or not broken",kg,True,10568.934,True,17504.965,10.568933999999999
+شعير.xlsx,2025,392,Japan,1201,"Soya beans, whether or not broken",kg,True,704.725,True,405.88,0.704725
+شعير.xlsx,2025,643,Russian Federation,1201,"Soya beans, whether or not broken",kg,True,6848.602,True,7017.305,6.848602
+شعير.xlsx,2025,724,Spain,1201,"Soya beans, whether or not broken",kg,True,17.532,True,10.097,0.017532
+شعير.xlsx,2025,764,Thailand,1201,"Soya beans, whether or not broken",kg,True,124292.914,True,71585.326,124.29291400000001
+شعير.xlsx,2025,804,Ukraine,1201,"Soya beans, whether or not broken",kg,True,391544930.13,True,225506592.075,391544.93013
+شعير.xlsx,2025,842,USA,1201,"Soya beans, whether or not broken",kg,True,3225844394.658,True,1857894509.734,3225844.394658
+شعير.xlsx,2025,858,Uruguay,1201,"Soya beans, whether or not broken",kg,True,78848891.989,True,45412272.138,78848.891989
+شوفان.xlsx,2015,0,World,1004,Oats,kg,True,512306.264,True,125439.239,512.306264
+شوفان.xlsx,2015,276,Germany,1004,Oats,kg,True,39601.451,True,9696.496,39.601451000000004
+شوفان.xlsx,2015,784,United Arab Emirates,1004,Oats,kg,True,339511.962,True,83130.2,339.511962
+شوفان.xlsx,2015,804,Ukraine,1004,Oats,kg,True,133192.851,True,32612.543,133.192851
+شوفان.xlsx,2016,0,World,1004,Oats,kg,True,115435.23577614264,True,218902.486,115.43523577614263
+شوفان.xlsx,2016,784,United Arab Emirates,1004,Oats,kg,True,115435.23577614264,True,218902.486,115.43523577614263
+شوفان.xlsx,2017,0,World,1004,Oats,kg,True,769229.125,True,203275.89,769.229125
+شوفان.xlsx,2017,36,Australia,1004,Oats,kg,True,469907.833,True,124177.478,469.907833
+شوفان.xlsx,2017,784,United Arab Emirates,1004,Oats,kg,True,299321.293,True,79098.412,299.321293
+شوفان.xlsx,2018,0,World,1004,Oats,kg,True,74460.568,True,19556.0,74.460568
+شوفان.xlsx,2018,784,United Arab Emirates,1004,Oats,kg,True,74460.568,True,19556.0,74.460568
+شوفان.xlsx,2019,0,World,1004,Oats,kg,True,3530.571,True,975.891,3.530571
+شوفان.xlsx,2019,156,China,1004,Oats,kg,True,3530.571,True,975.891,3.530571
+شوفان.xlsx,2020,0,World,1004,Oats,kg,True,70919.06,True,18204.307,70.91906
+شوفان.xlsx,2020,276,Germany,1004,Oats,kg,True,63636.266,True,16334.877,63.636266000000006
+شوفان.xlsx,2020,764,Thailand,1004,Oats,kg,True,7208.597,True,1850.384,7.208597
+شوفان.xlsx,2020,784,United Arab Emirates,1004,Oats,kg,True,74.197,True,19.046,0.074197
+شوفان.xlsx,2021,0,World,1004,Oats,kg,True,92261.873,True,26552.92,92.26187300000001
+شوفان.xlsx,2021,643,Russian Federation,1004,Oats,kg,True,92053.128,True,26492.844,92.053128
+شوفان.xlsx,2021,784,United Arab Emirates,1004,Oats,kg,True,116.78,True,33.609,0.11678
+شوفان.xlsx,2021,842,USA,1004,Oats,kg,True,91.965,True,26.467,0.091965
+شوفان.xlsx,2022,0,World,1004,Oats,kg,True,368.86474178853655,True,496.764,0.36886474178853657
+شوفان.xlsx,2022,422,Lebanon,1004,Oats,kg,False,298.71892923513195,False,402.296,0.29871892923513194
+شوفان.xlsx,2022,682,Saudi Arabia,1004,Oats,kg,True,66.473,True,23.276,0.066473
+شوفان.xlsx,2022,826,United Kingdom,1004,Oats,kg,True,114.884,True,71.192,0.114884
+شوفان.xlsx,2023,0,World,1004,Oats,kg,True,201966.939,True,69303.285,201.96693900000002
+شوفان.xlsx,2023,112,Belarus,1004,Oats,kg,True,201938.696,True,69293.594,201.938696
+شوفان.xlsx,2023,440,Lithuania,1004,Oats,kg,True,28.243,True,9.691,0.028242999999999997
+شوفان.xlsx,2024,0,World,1004,Oats,kg,True,100817.328,True,35117.122,100.81732799999999
+شوفان.xlsx,2024,428,Latvia,1004,Oats,kg,True,90859.931,True,31648.719,90.859931
+شوفان.xlsx,2024,440,Lithuania,1004,Oats,kg,True,30.28,True,10.547,0.03028
+شوفان.xlsx,2024,784,United Arab Emirates,1004,Oats,kg,True,9708.358,True,3381.657,9.708358
+شوفان.xlsx,2024,826,United Kingdom,1004,Oats,kg,True,218.76,True,76.199,0.21875999999999998
+شوفان.xlsx,2025,0,World,1004,Oats,kg,True,26.526,True,8.538,0.026526
+شوفان.xlsx,2025,826,United Kingdom,1004,Oats,kg,True,26.526,True,8.538,0.026526
+فول الصويا.xlsx,2015,0,World,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,1516103174.143,True,700601110.781,1516103.1741429998
+فول الصويا.xlsx,2015,32,Argentina,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,1367251616.794,True,631815840.623,1367251.616794
+فول الصويا.xlsx,2015,76,Brazil,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,3848321.905,True,1778334.514,3848.321905
+فول الصويا.xlsx,2015,380,Italy,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,2152.394,True,994.635,2.1523939999999997
+فول الصويا.xlsx,2015,600,Paraguay,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,21429998.414,True,9902941.27,21429.998414
+فول الصويا.xlsx,2015,804,Ukraine,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,3792634.961,True,1752601.216,3792.634961
+فول الصويا.xlsx,2015,842,USA,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,119778449.674,True,55350398.522,119778.44967399999
+فول الصويا.xlsx,2016,0,World,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,2081591640.641,True,864652855.34,2081591.6406410001
+فول الصويا.xlsx,2016,32,Argentina,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,1887855404.034,True,784178574.556,1887855.404034
+فول الصويا.xlsx,2016,76,Brazil,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,3453118.113,True,1434358.391,3453.118113
+فول الصويا.xlsx,2016,600,Paraguay,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,28955710.542,True,12027641.402,28955.710542
+فول الصويا.xlsx,2016,643,Russian Federation,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,521478.867,True,216612.222,521.478867
+فول الصويا.xlsx,2016,804,Ukraine,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,13486863.977,True,5602182.109,13486.863976999999
+فول الصويا.xlsx,2016,842,USA,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,147319065.109,True,61193486.66,147319.065109
+فول الصويا.xlsx,2017,0,World,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,1300091781.806,True,517449184.528,1300091.781806
+فول الصويا.xlsx,2017,32,Argentina,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,1259703113.38,True,501374101.343,1259703.1133800002
+فول الصويا.xlsx,2017,410,Rep. of Korea,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,18936530.434,True,7536923.445,18936.530434
+فول الصويا.xlsx,2017,600,Paraguay,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,1118412.808,True,445139.185,1118.412808
+فول الصويا.xlsx,2017,842,USA,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,20333725.183,True,8093020.556,20333.725183
+فول الصويا.xlsx,2018,0,World,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,525293503.898,True,242076979.826,525293.503898
+فول الصويا.xlsx,2018,32,Argentina,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,500843119.818,True,230809231.244,500843.119818
+فول الصويا.xlsx,2018,842,USA,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,24450384.08,True,11267748.582,24450.38408
+فول الصويا.xlsx,2019,0,World,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,183619010.054,True,74010179.334,183619.01005399998
+فول الصويا.xlsx,2019,32,Argentina,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,177887807.663,True,71700139.014,177887.80766299999
+فول الصويا.xlsx,2019,380,Italy,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,5219396.866,True,2103750.031,5219.396866
+فول الصويا.xlsx,2019,842,USA,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,511805.524,True,206290.289,511.805524
+فول الصويا.xlsx,2020,0,World,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,31970239.849,True,13598008.391,31970.239848999998
+فول الصويا.xlsx,2020,32,Argentina,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,31341234.423,True,13330471.422,31341.234423
+فول الصويا.xlsx,2020,702,Singapore,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,91101.17,True,38748.363,91.10117
+فول الصويا.xlsx,2020,842,USA,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,537904.256,True,228788.606,537.904256
+فول الصويا.xlsx,2021,0,World,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,943028.001,True,514164.336,943.028001
+فول الصويا.xlsx,2021,32,Argentina,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,483596.733,True,263670.0,483.59673300000003
+فول الصويا.xlsx,2021,842,USA,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,459431.268,True,250494.336,459.431268
+فول الصويا.xlsx,2022,0,World,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,125492207.216,True,78934830.438,125492.20721600001
+فول الصويا.xlsx,2022,32,Argentina,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,112796453.074,True,70949177.602,112796.453074
+فول الصويا.xlsx,2022,76,Brazil,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,12202854.756,True,7675618.211,12202.854755999999
+فول الصويا.xlsx,2022,528,Netherlands,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,10421.332,True,6555.037,10.421332
+فول الصويا.xlsx,2022,724,Spain,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,41.14,True,25.877,0.04114
+فول الصويا.xlsx,2022,842,USA,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,482436.914,True,303453.711,482.436914
+فول الصويا.xlsx,2023,0,World,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,875355728.997,True,518840248.083,875355.728997
+فول الصويا.xlsx,2023,32,Argentina,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,823474885.362,True,488089469.981,823474.885362
+فول الصويا.xlsx,2023,76,Brazil,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,36082209.08,True,21386622.25,36082.20908
+فول الصويا.xlsx,2023,643,Russian Federation,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,3139901.525,True,1861080.281,3139.9015249999998
+فول الصويا.xlsx,2023,804,Ukraine,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,4178864.578,True,2476893.75,4178.864578000001
+فول الصويا.xlsx,2023,842,USA,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,8479868.452,True,5026181.82,8479.868451999999
+فول الصويا.xlsx,2024,0,World,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,438103483.388,True,242016263.807,438103.483388
+فول الصويا.xlsx,2024,32,Argentina,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,422527486.906,True,233411802.494,422527.486906
+فول الصويا.xlsx,2024,156,China,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,38057.808,True,21023.819,38.057807999999994
+فول الصويا.xlsx,2024,842,USA,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,15537938.675,True,8583437.494,15537.938675000001
+فول الصويا.xlsx,2025,0,World,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,113282425.172,True,54645847.359,113282.425172
+فول الصويا.xlsx,2025,32,Argentina,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,58765835.011,True,28347811.632,58765.835011
+فول الصويا.xlsx,2025,156,China,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,83800.275,True,40424.073,83.800275
+فول الصويا.xlsx,2025,804,Ukraine,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,54002629.565,True,26050108.37,54002.629564999996
+فول الصويا.xlsx,2025,842,USA,2304,"Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil",kg,True,430160.321,True,207503.284,430.160321
+مسحوق السمك.xlsx,2015,0,World,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,9636271.392,True,15074722.463,9636.271392
+مسحوق السمك.xlsx,2015,32,Argentina,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,815357.66,True,1275523.482,815.35766
+مسحوق السمك.xlsx,2015,156,China,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,87135.431,True,136312.312,87.135431
+مسحوق السمك.xlsx,2015,208,Denmark,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,969508.363,True,1516672.673,969.508363
+مسحوق السمك.xlsx,2015,478,Mauritania,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,115016.207,True,179928.245,115.016207
+مسحوق السمك.xlsx,2015,480,Mauritius,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,474450.54,True,742217.599,474.45054
+مسحوق السمك.xlsx,2015,504,Morocco,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,2971339.567,True,4648283.293,2971.339567
+مسحوق السمك.xlsx,2015,512,Oman,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,271121.083,True,424134.493,271.121083
+مسحوق السمك.xlsx,2015,586,Pakistan,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,791664.661,True,1238458.794,791.6646609999999
+مسحوق السمك.xlsx,2015,699,India,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,205170.638,True,320963.4,205.170638
+مسحوق السمك.xlsx,2015,710,South Africa,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,590544.797,True,923832.316,590.544797
+مسحوق السمك.xlsx,2015,784,United Arab Emirates,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,417352.798,True,652895.435,417.352798
+مسحوق السمك.xlsx,2015,788,Tunisia,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,549921.513,True,860282.349,549.921513
+مسحوق السمك.xlsx,2015,887,Yemen,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,1377688.133,True,2155218.072,1377.6881329999999
+مسحوق السمك.xlsx,2016,0,World,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,6537955.596,True,9960129.194,6537.955596
+مسحوق السمك.xlsx,2016,32,Argentina,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,369248.418,True,562524.767,369.248418
+مسحوق السمك.xlsx,2016,156,China,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,3371.961,True,5136.952,3.3719609999999998
+مسحوق السمك.xlsx,2016,251,France,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,43533.677,True,66320.586,43.533677000000004
+مسحوق السمك.xlsx,2016,360,Indonesia,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,12800.263,True,19500.327,12.800263000000001
+مسحوق السمك.xlsx,2016,478,Mauritania,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,378105.217,True,576017.495,378.105217
+مسحوق السمك.xlsx,2016,480,Mauritius,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,132766.403,True,202260.555,132.766403
+مسحوق السمك.xlsx,2016,504,Morocco,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,2890130.407,True,4402916.45,2890.130407
+مسحوق السمك.xlsx,2016,512,Oman,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,423920.586,True,645814.084,423.920586
+مسحوق السمك.xlsx,2016,586,Pakistan,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,889285.325,True,1354765.507,889.285325
+مسحوق السمك.xlsx,2016,784,United Arab Emirates,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,263635.146,True,401630.154,263.635146
+مسحوق السمك.xlsx,2016,788,Tunisia,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,292597.598,True,445752.473,292.597598
+مسحوق السمك.xlsx,2016,887,Yemen,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,838560.595,True,1277489.843,838.5605949999999
+مسحوق السمك.xlsx,2017,0,World,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,2634476.179,True,3816514.506,2634.4761790000002
+مسحوق السمك.xlsx,2017,32,Argentina,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,300824.851,True,435799.123,300.824851
+مسحوق السمك.xlsx,2017,360,Indonesia,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,97173.636,True,140773.56,97.173636
+مسحوق السمك.xlsx,2017,478,Mauritania,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,516796.967,True,748673.736,516.796967
+مسحوق السمك.xlsx,2017,480,Mauritius,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,15688.415,True,22727.503,15.688415
+مسحوق السمك.xlsx,2017,504,Morocco,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,183859.094,True,266353.101,183.859094
+مسحوق السمك.xlsx,2017,512,Oman,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,482840.046,True,699481.002,482.840046
+مسحوق السمك.xlsx,2017,586,Pakistan,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,57584.191,True,83421.1,57.584191
+مسحوق السمك.xlsx,2017,690,Seychelles,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,52949.879,True,76707.462,52.949879
+مسحوق السمك.xlsx,2017,724,Spain,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,58825.389,True,85219.2,58.825389
+مسحوق السمك.xlsx,2017,784,United Arab Emirates,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,234335.793,True,339477.715,234.335793
+مسحوق السمك.xlsx,2017,788,Tunisia,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,397411.407,True,575722.192,397.411407
+مسحوق السمك.xlsx,2017,887,Yemen,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,236186.508,True,342158.81,236.186508
+مسحوق السمك.xlsx,2018,0,World,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,4261786.904,True,6694067.589,4261.7869040000005
+مسحوق السمك.xlsx,2018,32,Argentina,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,441487.044,True,693451.873,441.48704399999997
+مسحوق السمك.xlsx,2018,156,China,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,45319.864,True,71184.75,45.319864
+مسحوق السمك.xlsx,2018,440,Lithuania,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,15825.759,True,24857.813,15.825759
+مسحوق السمك.xlsx,2018,478,Mauritania,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,717949.931,True,1127697.248,717.949931
+مسحوق السمك.xlsx,2018,504,Morocco,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,316855.787,True,497691.25,316.855787
+مسحوق السمك.xlsx,2018,512,Oman,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,144491.198,True,226955.0,144.491198
+مسحوق السمك.xlsx,2018,579,Norway,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,82748.754,True,129975.0,82.748754
+مسحوق السمك.xlsx,2018,586,Pakistan,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,512844.953,True,805535.063,512.844953
+مسحوق السمك.xlsx,2018,690,Seychelles,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,49914.577,True,78401.75,49.914576999999994
+مسحوق السمك.xlsx,2018,724,Spain,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,81366.584,True,127804.0,81.366584
+مسحوق السمك.xlsx,2018,784,United Arab Emirates,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,735813.592,True,1155756.031,735.813592
+مسحوق السمك.xlsx,2018,788,Tunisia,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,155903.173,True,244880.0,155.903173
+مسحوق السمك.xlsx,2018,887,Yemen,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,961265.688,True,1509877.812,961.265688
+مسحوق السمك.xlsx,2019,0,World,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,5579632.469,True,8369224.533,5579.632468999999
+مسحوق السمك.xlsx,2019,32,Argentina,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,88878.235,True,133313.781,88.878235
+مسحوق السمك.xlsx,2019,156,China,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,27462.652,True,41192.875,27.462652
+مسحوق السمك.xlsx,2019,478,Mauritania,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,1046606.479,True,1569867.67,1046.606479
+مسحوق السمك.xlsx,2019,480,Mauritius,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,43584.615,True,65375.172,43.584615
+مسحوق السمك.xlsx,2019,504,Morocco,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,781946.078,True,1172887.701,781.9460779999999
+مسحوق السمك.xlsx,2019,512,Oman,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,245106.476,True,367649.866,245.106476
+مسحوق السمك.xlsx,2019,586,Pakistan,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,742301.297,True,1113422.123,742.301297
+مسحوق السمك.xlsx,2019,690,Seychelles,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,218961.39,True,328433.288,218.96139000000002
+مسحوق السمك.xlsx,2019,784,United Arab Emirates,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,1487113.371,True,2230610.31,1487.1133710000001
+مسحوق السمك.xlsx,2019,788,Tunisia,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,41832.37,True,62746.875,41.832370000000004
+مسحوق السمك.xlsx,2019,887,Yemen,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,855839.505,True,1283724.872,855.839505
+مسحوق السمك.xlsx,2020,0,World,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,4823294.626,True,7137452.348,4823.294626
+مسحوق السمك.xlsx,2020,56,Belgium,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,26826.524,True,39697.563,26.826524000000003
+مسحوق السمك.xlsx,2020,478,Mauritania,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,537987.059,True,796106.664,537.987059
+مسحوق السمك.xlsx,2020,504,Morocco,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,1090332.503,True,1613460.692,1090.332503
+مسحوق السمك.xlsx,2020,512,Oman,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,79791.848,True,118075.0,79.791848
+مسحوق السمك.xlsx,2020,586,Pakistan,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,312993.88,True,463164.512,312.99388
+مسحوق السمك.xlsx,2020,604,Peru,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,40249.704,True,59561.02,40.249704
+مسحوق السمك.xlsx,2020,690,Seychelles,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,84700.708,True,125339.07,84.70070799999999
+مسحوق السمك.xlsx,2020,724,Spain,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,593081.119,True,877634.18,593.081119
+مسحوق السمك.xlsx,2020,784,United Arab Emirates,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,451992.738,True,668853.32,451.99273800000003
+مسحوق السمك.xlsx,2020,788,Tunisia,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,55619.721,True,82305.383,55.619721
+مسحوق السمك.xlsx,2020,887,Yemen,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,1549718.823,True,2293254.945,1549.7188230000002
+مسحوق السمك.xlsx,2021,0,World,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,4751004.239,True,7316534.059,4751.004239
+مسحوق السمك.xlsx,2021,32,Argentina,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,96305.359,True,148310.0,96.305359
+مسحوق السمك.xlsx,2021,504,Morocco,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,637224.042,True,981323.352,637.224042
+مسحوق السمك.xlsx,2021,512,Oman,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,51637.588,True,79521.75,51.637588
+مسحوق السمك.xlsx,2021,586,Pakistan,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,342957.94,True,528154.328,342.95794
+مسحوق السمك.xlsx,2021,604,Peru,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,276064.787,True,425139.047,276.064787
+مسحوق السمك.xlsx,2021,686,Senegal,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,88341.131,True,136045.109,88.34113099999999
+مسحوق السمك.xlsx,2021,690,Seychelles,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,112541.507,True,173313.625,112.541507
+مسحوق السمك.xlsx,2021,699,India,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,99931.491,True,153894.234,99.931491
+مسحوق السمك.xlsx,2021,710,South Africa,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,125335.745,True,193016.719,125.33574499999999
+مسحوق السمك.xlsx,2021,724,Spain,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,67641.035,True,104167.016,67.641035
+مسحوق السمك.xlsx,2021,784,United Arab Emirates,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,711420.807,True,1095586.176,711.4208070000001
+مسحوق السمك.xlsx,2021,887,Yemen,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,2141602.808,True,3298062.703,2141.602808
+مسحوق السمك.xlsx,2022,0,World,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,3651737.799,True,6061884.746,3651.737799
+مسحوق السمك.xlsx,2022,478,Mauritania,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,669142.253,True,1110776.141,669.142253
+مسحوق السمك.xlsx,2022,504,Morocco,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,675204.518,True,1120839.5,675.204518
+مسحوق السمك.xlsx,2022,710,South Africa,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,376765.738,True,625431.125,376.765738
+مسحوق السمك.xlsx,2022,724,Spain,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,167875.965,True,278674.102,167.875965
+مسحوق السمك.xlsx,2022,784,United Arab Emirates,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,441713.797,True,733244.902,441.713797
+مسحوق السمك.xlsx,2022,887,Yemen,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,1321035.528,True,2192918.977,1321.0355279999999
+مسحوق السمك.xlsx,2023,0,World,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,2345971.271,True,4399229.652,2345.9712710000003
+مسحوق السمك.xlsx,2023,478,Mauritania,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,432345.527,True,810746.188,432.345527
+مسحوق السمك.xlsx,2023,710,South Africa,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,210364.885,True,394482.0,210.36488500000002
+مسحوق السمك.xlsx,2023,724,Spain,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,606342.877,True,1137030.789,606.3428769999999
+مسحوق السمك.xlsx,2023,784,United Arab Emirates,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,382442.401,True,717166.477,382.442401
+مسحوق السمك.xlsx,2023,887,Yemen,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,714475.581,True,1339804.199,714.475581
+مسحوق السمك.xlsx,2024,0,World,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,1916234.05,True,3690704.56,1916.23405
+مسحوق السمك.xlsx,2024,251,France,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,38.701,True,74.539,0.038701
+مسحوق السمك.xlsx,2024,478,Mauritania,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,88613.022,True,170670.427,88.613022
+مسحوق السمك.xlsx,2024,504,Morocco,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,46880.203,True,90292.195,46.880203
+مسحوق السمك.xlsx,2024,512,Oman,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,155262.129,True,299037.922,155.262129
+مسحوق السمك.xlsx,2024,724,Spain,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,411518.368,True,792592.49,411.518368
+مسحوق السمك.xlsx,2024,784,United Arab Emirates,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,268117.864,True,516400.292,268.117864
+مسحوق السمك.xlsx,2024,887,Yemen,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,945803.763,True,1821636.695,945.803763
+مسحوق السمك.xlsx,2025,0,World,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,1087570.585,True,1965058.137,1087.570585
+مسحوق السمك.xlsx,2025,504,Morocco,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,41717.42,True,75376.4,41.71742
+مسحوق السمك.xlsx,2025,512,Oman,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,440012.749,True,795029.44,440.012749
+مسحوق السمك.xlsx,2025,724,Spain,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,163390.687,True,295219.642,163.390687
+مسحوق السمك.xlsx,2025,784,United Arab Emirates,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,82492.424,True,149050.011,82.492424
+مسحوق السمك.xlsx,2025,887,Yemen,230120,"Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates",kg,True,359957.306,True,650382.644,359.95730599999996
