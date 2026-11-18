@@ -1,4 +1,5 @@
-# FeedGuard-Egypt-Feed-Import-Analy#  | Egypt Feed Import & Sourcing Risk Analytics
+# FeedGuard-Egypt-Feed-Import| Egypt Feed Import & Sourcing Risk Analytics
+<img width="959" height="474" alt="grad 2" src="https://github.com/user-attachments/assets/8ad20436-7757-431c-9f77-5287d46d3a6a" />
 
 ## 📌 Project Overview
 
